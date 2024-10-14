@@ -1,0 +1,1950 @@
+{
+    "newCars": [
+        {
+            "id": 1,
+            "model": "2024 Honda Civic",
+            "type": "Sedan",
+            "brand": "Honda",
+            "price": 25000,
+            "image": "/img/New Cars/1_Honda Civic 2024/HondaHome.png",
+            "description": "The 2024 Honda Civic is a bold step forward for the iconic sedan, featuring an athletic yet sophisticated design with an emphasis on performance, comfort, and technology. As the fastest Civic ever, it brings a thrilling driving experience with advanced safety features and modern tech that caters to both enthusiasts and daily commuters.",
+            "showcaseImages": [
+                "/img/New Cars/1_Honda Civic 2024/Showcase1.png",
+                "/img/New Cars/1_Honda Civic 2024/Showcase2.png",
+                "/img/New Cars/1_Honda Civic 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/1_Honda Civic 2024/Interior1.png",
+                "/img/New Cars/1_Honda Civic 2024/Interior2.png",
+                "/img/New Cars/1_Honda Civic 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.0L Turbocharged 4-cylinder",
+                "horsepower": 180,
+                "transmission": "6-speed manual or optional CVT",
+                "fuelEfficiency": "32 MPG city / 42 MPG highway",
+                "infotainment": "7-inch touchscreen display with Apple CarPlay and Android Auto integration",
+                "safety": "Honda Sensing® Suite, including Collision Mitigation Braking System (CMBS) and Adaptive Cruise Control (ACC)",
+                "comfort": "Dual-zone climate control, heated front seats, and a spacious, tech-forward interior"
+            },
+            "design": {
+                "exterior": "The exterior boasts a low, wide stance with sleek lines and aggressive styling, including LED headlights and taillights, a blacked-out front grille, and available 18-inch alloy wheels.",
+                "interior": "The cabin is driver-centric, with a minimalist dashboard design and a premium feel, thanks to soft-touch materials, a leather-wrapped steering wheel, and customizable ambient lighting."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in just 6.7 seconds",
+                "handling": "Precisely tuned suspension for enhanced cornering and stability, ensuring a smooth yet exhilarating ride.",
+                "drivingModes": "Eco, Normal, and Sport modes to suit various driving preferences."
+            },
+            "technology": {
+                "audio": "Premium 8-speaker sound system",
+                "connectivity": "Bluetooth, USB ports, wireless charging, and a digital instrument cluster",
+                "driverAssistance": "Rearview camera, lane-keeping assist, and traffic sign recognition"
+            }
+        },
+        {
+            "id": 2,
+            "model": "2024 Toyota Corolla",
+            "type": "Sedan",
+            "brand": "Toyota",
+            "price": 23000,
+            "image": "/img/New Cars/2_Toyota Corolla 2024/HomeToyota.png",
+            "description": "The 2024 Toyota Corolla is a stylish and reliable sedan that blends fun driving dynamics with modern technology and safety features. Its eye-catching design and efficient performance make it an ideal choice for both urban commuting and weekend adventures.",
+            "showcaseImages": [
+                "/img/New Cars/2_Toyota Corolla 2024/Showcase1.png",
+                "/img/New Cars/2_Toyota Corolla 2024/Showcase2.png",
+                "/img/New Cars/2_Toyota Corolla 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/2_Toyota Corolla 2024/Interior1.png",
+                "/img/New Cars/2_Toyota Corolla 2024/Interior2.png",
+                "/img/New Cars/2_Toyota Corolla 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "1.8L 4-cylinder",
+                "horsepower": 139,
+                "transmission": "Continuously Variable Transmission (CVT)",
+                "fuelEfficiency": "30 MPG city / 38 MPG highway",
+                "infotainment": "8-inch touchscreen display with Apple CarPlay and Android Auto integration",
+                "safety": "Toyota Safety Sense™ 2.5, including Pre-Collision System and Lane Departure Alert",
+                "comfort": "Automatic climate control, spacious rear seats, and a user-friendly interior layout"
+            },
+            "design": {
+                "exterior": "The exterior features a bold front grille, sleek profile, and available 18-inch alloy wheels, giving it a sporty and modern appearance.",
+                "interior": "The interior is designed with premium materials, a comfortable seating arrangement, and a focus on driver ergonomics, ensuring a pleasant driving experience."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 8.2 seconds",
+                "handling": "Tuned suspension for balanced ride comfort and sporty handling, making it agile in city driving.",
+                "drivingModes": "Eco and Sport modes to enhance driving experience based on preferences."
+            },
+            "technology": {
+                "audio": "6-speaker audio system with a premium option available",
+                "connectivity": "Bluetooth, USB ports, and wireless charging capabilities",
+                "driverAssistance": "Adaptive Cruise Control, Blind Spot Monitoring, and Rear Cross Traffic Alert"
+            }
+        },
+        {
+            "id": 3,
+            "model": "2024 Ford Mustang",
+            "type": "Coupe",
+            "brand": "Ford",
+            "price": 35000,
+            "image": "/img/New Cars/3_Ford Mustang 2024/HomeFord.png",
+            "description": "The 2024 Ford Mustang is a legendary sports car that combines iconic styling with cutting-edge performance. Known for its exhilarating power and dynamic handling, the Mustang delivers an unmatched driving experience, making it the perfect choice for enthusiasts and everyday drivers alike.",
+            "showcaseImages": [
+                "/img/New Cars/3_Ford Mustang 2024/Showcase1.png",
+                "/img/New Cars/3_Ford Mustang 2024/Showcase2.png",
+                "/img/New Cars/3_Ford Mustang 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/3_Ford Mustang 2024/Interior1.png",
+                "/img/New Cars/3_Ford Mustang 2024/Interior2.png",
+                "/img/New Cars/3_Ford Mustang 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "5.0L V8 or 2.3L EcoBoost 4-cylinder",
+                "horsepower": 450,
+                "transmission": "6-speed manual or optional 10-speed automatic",
+                "fuelEfficiency": "15 MPG city / 24 MPG highway (V8) / 21 MPG city / 30 MPG highway (EcoBoost)",
+                "infotainment": "12-inch digital instrument cluster and SYNC 4 with an 8-inch touchscreen",
+                "safety": "Ford Co-Pilot360, including Pre-Collision Assist, Blind Spot Information System, and Lane-Keeping Assist",
+                "comfort": "Available heated and ventilated front seats, spacious cabin, and premium sound system"
+            },
+            "design": {
+                "exterior": "The exterior features an aggressive front grille, aerodynamic lines, and available performance packages that enhance its sporty look.",
+                "interior": "The interior is driver-focused, featuring a modern dashboard layout, high-quality materials, and customizable ambient lighting."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in just 4.1 seconds (V8 variant)",
+                "handling": "Advanced suspension system for improved cornering stability and responsive handling.",
+                "drivingModes": "Normal, Sport, and Track modes for tailored driving experiences."
+            },
+            "technology": {
+                "audio": "Available B&O Sound System with 12 speakers",
+                "connectivity": "Bluetooth, USB ports, wireless charging, and FordPass Connect with 4G LTE Wi-Fi hotspot capability",
+                "driverAssistance": "Adaptive Cruise Control, Rear Parking Sensors, and Active Park Assist"
+            }
+        },
+        {
+            "id": 4,
+            "model": "2024 Chevrolet Silverado",
+            "type": "Pickup Truck",
+            "brand": "Chevrolet",
+            "price": 40000,
+            "image": "/img/New Cars/4_Chevrolet Silverado 2024/Home.png",
+            "description": "The 2024 Chevrolet Silverado is a powerful and versatile pickup truck that excels in both work and leisure. With its robust design, advanced technology, and impressive towing capacity, the Silverado is engineered to handle any job while providing comfort and convenience for everyday driving.",
+            "showcaseImages": [
+                "/img/New Cars/4_Chevrolet Silverado 2024/Showcase1.png",
+                "/img/New Cars/4_Chevrolet Silverado 2024/Showcase2.png",
+                "/img/New Cars/4_Chevrolet Silverado 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/4_Chevrolet Silverado 2024/Interior1.png",
+                "/img/New Cars/4_Chevrolet Silverado 2024/Interior2.png",
+                "/img/New Cars/4_Chevrolet Silverado 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.7L Turbocharged 4-cylinder or 5.3L V8",
+                "horsepower": 310,
+                "transmission": "8-speed automatic transmission",
+                "fuelEfficiency": "20 MPG city / 23 MPG highway (Turbo) / 16 MPG city / 22 MPG highway (V8)",
+                "infotainment": "Chevrolet Infotainment 3 system with a 13.4-inch touchscreen and wireless Apple CarPlay and Android Auto",
+                "safety": "Available Chevrolet Safety Assist, including Automatic Emergency Braking, Forward Collision Alert, and Lane Keep Assist",
+                "comfort": "Spacious interior with available heated and ventilated seats, dual-zone climate control, and premium materials"
+            },
+            "design": {
+                "exterior": "The Silverado's bold and rugged design features a high-strength steel frame, LED lighting, and an available Multi-Flex tailgate for enhanced utility.",
+                "interior": "A driver-centric cockpit with intuitive controls, ample storage solutions, and high-quality materials for a refined feel."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 6.5 seconds (V8 variant)",
+                "towingCapacity": "Up to 13,300 lbs when properly equipped, making it ideal for heavy-duty tasks.",
+                "drivingModes": "Available driving modes for optimized performance in various conditions, including Tow/Haul mode."
+            },
+            "technology": {
+                "audio": "Bose premium sound system for an enhanced audio experience",
+                "connectivity": "Multiple USB ports, Bluetooth, and available Wi-Fi hotspot capability for on-the-go connectivity.",
+                "driverAssistance": "Available adaptive cruise control, rear park assist, and a high-definition rear vision camera"
+            }
+        },
+        {
+            "id": 5,
+            "model": "2024 Tesla Model 3",
+            "type": "Sedan",
+            "brand": "Tesla",
+            "price": 45000,
+            "image": "/img/New Cars/5_Tesla Model 3 2024/Home.png",
+            "description": "The 2024 Tesla Model 3 is a cutting-edge electric sedan that combines impressive performance with advanced technology. Available in Standard Range and Long Range variants, it delivers a thrilling driving experience while minimizing environmental impact. With its minimalist interior and high-tech features, the Model 3 redefines what a modern sedan can be.",
+            "showcaseImages": [
+                "/img/New Cars/5_Tesla Model 3 2024/Showcase1.png",
+                "/img/New Cars/5_Tesla Model 3 2024/Showcase2.png",
+                "/img/New Cars/5_Tesla Model 3 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/5_Tesla Model 3 2024/Interior1.png",
+                "/img/New Cars/5_Tesla Model 3 2024/Interior2.png",
+                "/img/New Cars/5_Tesla Model 3 2024/Interior3.png"
+            ],
+            "features": {
+                "battery": "Standard Range: 54 kWh; Long Range: 75 kWh",
+                "horsepower": "283 hp (Standard) / 450 hp (Long Range)",
+                "transmission": "Single-speed automatic",
+                "range": "Standard Range: 263 miles; Long Range: 353 miles on a full charge",
+                "infotainment": "15-inch touchscreen with navigation, streaming services, and over-the-air updates",
+                "safety": "Five-star safety rating, with advanced safety features including Automatic Emergency Braking and Lane Departure Avoidance",
+                "comfort": "Spacious cabin with vegan leather seating, heated front and rear seats, and dual-zone climate control"
+            },
+            "design": {
+                "exterior": "The Model 3 features a sleek, aerodynamic design with a low profile, flush door handles, and a minimalist aesthetic.",
+                "interior": "A spacious, modern interior that emphasizes simplicity and technology, featuring a central touchscreen and premium materials."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in as little as 5.3 seconds (Standard) / 3.1 seconds (Long Range Performance variant)",
+                "handling": "All-wheel drive available, providing superior traction and handling capabilities.",
+                "drivingModes": "Standard and Sport driving modes to enhance performance based on driver preference."
+            },
+            "technology": {
+                "audio": "Premium audio system with immersive sound quality",
+                "connectivity": "Bluetooth, Wi-Fi, and cellular connectivity for internet access and streaming capabilities",
+                "driverAssistance": "Autopilot capabilities with advanced features for semi-autonomous driving"
+            }
+        },
+        {
+            "id": 6,
+            "model": "2024 Hyundai Elantra",
+            "type": "Sedan",
+            "brand": "Hyundai",
+            "price": 22000,
+            "image": "/img/New Cars/6_Hyundai Elantra 2024/Home.png",
+            "description": "The 2024 Hyundai Elantra is a bold compact sedan that blends cutting-edge technology with eye-catching design. Featuring streamlined styling and a spacious interior, the Elantra is equipped with the latest tech to enhance your driving experience. With a focus on safety, performance, and comfort, it’s the perfect companion for every journey.",
+            "showcaseImages": [
+                "/img/New Cars/6_Hyundai Elantra 2024/Showcase1.png",
+                "/img/New Cars/6_Hyundai Elantra 2024/Showcase2.png",
+                "/img/New Cars/6_Hyundai Elantra 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/6_Hyundai Elantra 2024/Interior1.png",
+                "/img/New Cars/6_Hyundai Elantra 2024/Interior2.png",
+                "/img/New Cars/6_Hyundai Elantra 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.0L 4-cylinder engine",
+                "horsepower": 147,
+                "transmission": "Continuously Variable Transmission (CVT)",
+                "fuelEfficiency": "33 MPG city / 43 MPG highway",
+                "infotainment": "10.25-inch touchscreen display with Apple CarPlay and Android Auto",
+                "safety": "SmartSense safety features including Forward Collision-Avoidance Assist and Lane Keeping Assist",
+                "comfort": "Spacious interior with comfortable seating, dual-zone climate control, and available heated front seats"
+            },
+            "design": {
+                "exterior": "The Elantra showcases a sleek and modern silhouette with a bold front grille, sharp LED headlights, and dynamic character lines.",
+                "interior": "A contemporary interior that emphasizes driver comfort and convenience, featuring high-quality materials and an intuitive layout."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 8.0 seconds",
+                "handling": "Responsive steering and well-tuned suspension for a balanced driving experience.",
+                "drivingModes": "Selectable driving modes to enhance performance and efficiency."
+            },
+            "technology": {
+                "audio": "Bose premium audio system available for enhanced sound quality",
+                "connectivity": "Bluetooth, USB ports, wireless charging, and advanced navigation features",
+                "driverAssistance": "Highway Driving Assist and Blind-Spot Collision-Avoidance Assist for added safety"
+            }
+        },
+        {
+            "id": 7,
+            "model": "2024 Kia Sportage",
+            "type": "SUV",
+            "brand": "Kia",
+            "price": 29000,
+            "image": "/img/New Cars/7_Kia Sportage 2024/Home.png",
+            "description": "The 2024 Kia Sportage redefines adventure with its bold design and spacious interior. Featuring advanced technology and a powerful engine, it’s built for those who crave exploration. With versatile seating and ample cargo space, the Sportage is perfect for family outings or solo adventures, ensuring you can tackle any terrain with confidence.",
+            "showcaseImages": [
+                "/img/New Cars/7_Kia Sportage 2024/Showcase1.png",
+                "/img/New Cars/7_Kia Sportage 2024/Showcase2.png",
+                "/img/New Cars/7_Kia Sportage 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/7_Kia Sportage 2024/Interior1.png",
+                "/img/New Cars/7_Kia Sportage 2024/Interior2.png",
+                "/img/New Cars/7_Kia Sportage 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.5L 4-cylinder engine",
+                "horsepower": 187,
+                "transmission": "8-speed automatic transmission",
+                "fuelEfficiency": "25 MPG city / 32 MPG highway",
+                "infotainment": "12.3-inch dual display with Apple CarPlay and Android Auto",
+                "safety": "Kia Drive Wise technology including Forward Collision-Avoidance Assist and Blind-Spot Monitoring",
+                "comfort": "Available heated and ventilated seats, dual-zone automatic climate control, and generous legroom"
+            },
+            "design": {
+                "exterior": "The Sportage features a striking front grille, aggressive stance, and sleek body lines that enhance aerodynamics and style.",
+                "interior": "A spacious interior with a modern design, offering high-quality materials, intuitive controls, and customizable ambient lighting."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 8.2 seconds",
+                "handling": "All-wheel drive options available for improved traction and stability on various terrains.",
+                "drivingModes": "Selectable drive modes including Eco, Sport, and Smart for a tailored driving experience."
+            },
+            "technology": {
+                "audio": "Premium sound system available with multiple speakers for a superior audio experience",
+                "connectivity": "Multiple USB ports, wireless charging, and smart device integration for seamless connectivity",
+                "driverAssistance": "Surround View Monitor and Smart Cruise Control to enhance safety and convenience"
+            }
+        },
+        {
+            "id": 8,
+            "model": "2024 Subaru Outback",
+            "type": "Crossover",
+            "brand": "Subaru",
+            "price": 32000,
+            "image": "/img/New Cars/8_Subaru Outback 2024/Home.png",
+            "description": "The 2024 Subaru Outback combines rugged capability with refined comfort, making it the perfect companion for all your adventures. With its spacious interior, advanced safety features, and Subaru's legendary all-wheel drive, it’s designed for those who embrace the outdoors and value practicality in their daily lives.",
+            "showcaseImages": [
+                "/img/New Cars/8_Subaru Outback 2024/Showcase1.png",
+                "/img/New Cars/8_Subaru Outback 2024/Showcase2.png",
+                "/img/New Cars/8_Subaru Outback 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/8_Subaru Outback 2024/Interior1.png",
+                "/img/New Cars/8_Subaru Outback 2024/Interior2.png",
+                "/img/New Cars/8_Subaru Outback 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.5L 4-cylinder engine or 2.4L turbocharged engine",
+                "horsepower": 182,
+                "transmission": "Continuously Variable Transmission (CVT)",
+                "fuelEfficiency": "26 MPG city / 33 MPG highway",
+                "infotainment": "11.6-inch touchscreen display with Apple CarPlay and Android Auto",
+                "safety": "EyeSight Driver Assist Technology, including Adaptive Cruise Control and Lane Keep Assist",
+                "comfort": "Spacious seating with available leather-trimmed upholstery and heated front seats"
+            },
+            "design": {
+                "exterior": "The Outback features rugged styling with high ground clearance, a distinctive front grille, and LED headlights, making it perfect for both city and off-road environments.",
+                "interior": "A spacious, comfortable cabin with premium materials and a modern layout, designed for easy access to technology and ample cargo space."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 8.5 seconds",
+                "handling": "Symmetrical All-Wheel Drive for superior traction and stability on various surfaces.",
+                "drivingModes": "X-Mode for enhanced performance on challenging terrains."
+            },
+            "technology": {
+                "audio": "Harman Kardon premium audio system for an exceptional listening experience",
+                "connectivity": "Multiple USB ports, Bluetooth connectivity, and Wi-Fi hotspot capability",
+                "driverAssistance": "Reverse automatic braking, blind-spot detection, and rear cross-traffic alert for added safety"
+            }
+        },
+        {
+            "id": 9,
+            "model": "2024 Nissan Altima",
+            "type": "Sedan",
+            "brand": "Nissan",
+            "price": 24000,
+            "image": "/img/New Cars/9_Nissan Altima 2024/Home.png",
+            "description": "The 2024 Nissan Altima stands out with its striking design and sporty performance. With its efficient engines, advanced technology, and spacious interior, it offers a perfect blend of comfort, style, and innovative features to elevate your driving experience.",
+            "showcaseImages": [
+                "/img/New Cars/9_Nissan Altima 2024/Showcase1.png",
+                "/img/New Cars/9_Nissan Altima 2024/Showcase2.png",
+                "/img/New Cars/9_Nissan Altima 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/9_Nissan Altima 2024/Interior1.png",
+                "/img/New Cars/9_Nissan Altima 2024/Interior2.png",
+                "/img/New Cars/9_Nissan Altima 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.5L 4-cylinder engine or 2.0L turbocharged engine",
+                "horsepower": 188,
+                "transmission": "Continuously Variable Transmission (CVT)",
+                "fuelEfficiency": "28 MPG city / 39 MPG highway",
+                "infotainment": "8-inch touchscreen display with Apple CarPlay and Android Auto integration",
+                "safety": "Nissan Safety Shield 360, including Automatic Emergency Braking and Rear Cross Traffic Alert",
+                "comfort": "Spacious seating with optional leather upholstery, heated front seats, and dual-zone climate control"
+            },
+            "design": {
+                "exterior": "The Altima features a sleek silhouette with bold lines, LED headlights, and a sporty stance that commands attention on the road.",
+                "interior": "A modern and refined cabin designed for comfort and convenience, equipped with high-quality materials and user-friendly technology."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 7.2 seconds (with turbo engine)",
+                "handling": "Advanced suspension for a smooth and responsive driving experience, with available Intelligent All-Wheel Drive for added traction.",
+                "drivingModes": "Standard, Eco, and Sport modes to optimize performance for your driving style."
+            },
+            "technology": {
+                "audio": "Bose premium audio system available for an immersive listening experience",
+                "connectivity": "Multiple USB ports, Bluetooth connectivity, and available Wi-Fi hotspot",
+                "driverAssistance": "Intelligent Around View Monitor and ProPILOT Assist for enhanced safety and convenience"
+            }
+        },
+        {
+            "id": 10,
+            "model": "2024 Volkswagen Jetta",
+            "type": "Sedan",
+            "brand": "Volkswagen",
+            "price": 23000,
+            "image": "/img/New Cars/10_Volkswagen Jetta 2024/Home.png",
+            "description": "The 2024 Volkswagen Jetta embodies iconic design and reliable performance, delivering exceptional fuel efficiency and the renowned German engineering that makes every drive enjoyable and confident.",
+            "showcaseImages": [
+                "/img/New Cars/10_Volkswagen Jetta 2024/Showcase1.png",
+                "/img/New Cars/10_Volkswagen Jetta 2024/Showcase2.png",
+                "/img/New Cars/10_Volkswagen Jetta 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/10_Volkswagen Jetta 2024/Interior1.png",
+                "/img/New Cars/10_Volkswagen Jetta 2024/Interior2.png",
+                "/img/New Cars/10_Volkswagen Jetta 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "1.5L turbocharged 4-cylinder engine",
+                "horsepower": 158,
+                "transmission": "8-speed automatic transmission",
+                "fuelEfficiency": "30 MPG city / 40 MPG highway",
+                "infotainment": "8-inch touchscreen display with Apple CarPlay and Android Auto integration",
+                "safety": "Volkswagen IQ.DRIVE, including Front Assist and Blind Spot Monitor",
+                "comfort": "Spacious interior with standard cloth seating and available leatherette upholstery, along with available heated front seats"
+            },
+            "design": {
+                "exterior": "The Jetta features a sleek silhouette with sharp lines, LED headlights, and a modern front grille that enhances its sporty appeal.",
+                "interior": "The cabin is designed for comfort and convenience, featuring high-quality materials and an intuitive layout for easy access to controls."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 7.5 seconds",
+                "handling": "Well-balanced suspension and steering provide a confident and engaging driving experience.",
+                "drivingModes": "Standard and Sport modes to enhance performance and responsiveness."
+            },
+            "technology": {
+                "audio": "Available premium audio system for a superior listening experience",
+                "connectivity": "Multiple USB-C ports, Bluetooth connectivity, and available wireless charging",
+                "driverAssistance": "Rearview camera, adaptive cruise control, and lane-keeping assist for added safety"
+            }
+        },
+        {
+            "id": 11,
+            "model": "2024 BMW 3 Series",
+            "type": "Sedan",
+            "brand": "BMW",
+            "price": 42000,
+            "image": "/img/New Cars/11_BWM 3 2024/Home.png",
+            "description": "The 2024 BMW 3 Series is the epitome of luxury and performance, featuring a refined design that seamlessly combines sportiness with comfort. It's engineered to deliver a thrilling driving experience while offering state-of-the-art technology and premium materials throughout the cabin.",
+            "showcaseImages": [
+                "/img/New Cars/11_BWM 3 2024/Showcase1.png",
+                "/img/New Cars/11_BWM 3 2024/Showcase2.png",
+                "/img/New Cars/11_BWM 3 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/11_BWM 3 2024/Interior1.png",
+                "/img/New Cars/11_BWM 3 2024/Interior2.png",
+                "/img/New Cars/11_BWM 3 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.0L BMW TwinPower Turbo inline 4-cylinder",
+                "horsepower": 255,
+                "transmission": "8-speed automatic transmission",
+                "fuelEfficiency": "26 MPG city / 36 MPG highway",
+                "infotainment": "12.3-inch digital display with iDrive 7.0, Apple CarPlay, and Android Auto",
+                "safety": "Active Driving Assistant, including Blind Spot Detection and Lane Departure Warning",
+                "comfort": "Sport seats with premium upholstery, dual-zone automatic climate control, and ambient lighting"
+            },
+            "design": {
+                "exterior": "The exterior boasts a bold front fascia, LED headlights, and a sleek roofline that enhances its sporty aesthetic.",
+                "interior": "The interior is meticulously crafted with high-quality materials, featuring a driver-focused cockpit and advanced technology seamlessly integrated."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 5.6 seconds",
+                "handling": "Precision-engineered suspension for exceptional agility and road feel, delivering a dynamic driving experience.",
+                "drivingModes": "ECO, Comfort, and Sport modes to tailor performance to your preferences."
+            },
+            "technology": {
+                "audio": "Available Harman Kardon surround sound system for an immersive audio experience",
+                "connectivity": "Multiple USB-C ports, Bluetooth connectivity, and wireless device charging",
+                "driverAssistance": "Park Distance Control, Rearview Camera, and Active Cruise Control for enhanced convenience"
+            }
+        },
+        {
+            "id": 12,
+            "model": "2024 Audi Q5",
+            "type": "SUV",
+            "brand": "Audi",
+            "price": 49000,
+            "image": "/img/New Cars/12_Audi Q5 2024/Home.png",
+            "description": "The 2024 Audi Q5 is a luxury SUV that masterfully combines elegant styling with exceptional practicality. Its sophisticated design and versatile interior make it an ideal choice for both city driving and outdoor adventures, while its advanced technology ensures a connected and enjoyable experience on the road.",
+            "showcaseImages": [
+                "/img/New Cars/12_Audi Q5 2024/Showcase1.png",
+                "/img/New Cars/12_Audi Q5 2024/Showcase2.png",
+                "/img/New Cars/12_Audi Q5 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/12_Audi Q5 2024/Interior1.png",
+                "/img/New Cars/12_Audi Q5 2024/Interior2.png",
+                "/img/New Cars/12_Audi Q5 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.0L TFSI® inline 4-cylinder turbocharged engine",
+                "horsepower": 261,
+                "transmission": "7-speed S tronic® automatic transmission with quattro® all-wheel drive",
+                "fuelEfficiency": "23 MPG city / 29 MPG highway",
+                "infotainment": "10.1-inch touchscreen display with MMI® Navigation plus and Apple CarPlay/Android Auto",
+                "safety": "Audi pre sense® basic, Audi lane departure warning, and adaptive cruise control",
+                "comfort": "Heated leather seats, panoramic sunroof, and a spacious cargo area with split-folding rear seats"
+            },
+            "design": {
+                "exterior": "Featuring a bold octagonal grille, sleek LED headlights, and athletic lines, the Q5 commands attention on the road.",
+                "interior": "The cabin showcases premium materials, customizable ambient lighting, and a driver-centric layout for maximum comfort."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 5.7 seconds",
+                "handling": "Quattro® all-wheel drive and adaptive suspension deliver a smooth and responsive driving experience.",
+                "drivingModes": "Comfort, Auto, Dynamic, and Off-Road modes to enhance performance across various terrains."
+            },
+            "technology": {
+                "audio": "Available Bang & Olufsen® 3D sound system for an immersive audio experience",
+                "connectivity": "Multiple USB-C ports, Bluetooth connectivity, and an optional Wi-Fi hotspot",
+                "driverAssistance": "360-degree camera system, front and rear parking sensors, and Traffic Jam Assist for enhanced convenience"
+            }
+        },
+        {
+            "id": 13,
+            "model": "2024 Mercedes-Benz C-Class",
+            "type": "Sedan",
+            "brand": "Mercedes-Benz",
+            "price": 45000,
+            "image": "/img/New Cars/13_Mercedes-Benz C-Class 2024/Home.png",
+            "description": "The 2024 Mercedes-Benz C-Class combines luxury, performance, and cutting-edge technology in a sophisticated sedan. With its elegant design and powerful engines, it delivers a refined driving experience that sets new standards in its class.",
+            "showcaseImages": [
+                "/img/New Cars/13_Mercedes-Benz C-Class 2024/Showcase1.png",
+                "/img/New Cars/13_Mercedes-Benz C-Class 2024/Showcase2.png",
+                "/img/New Cars/13_Mercedes-Benz C-Class 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/13_Mercedes-Benz C-Class 2024/Interior1.png",
+                "/img/New Cars/13_Mercedes-Benz C-Class 2024/Interior2.png",
+                "/img/New Cars/13_Mercedes-Benz C-Class 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.0L inline-4 turbocharged engine",
+                "horsepower": 255,
+                "transmission": "9-speed automatic transmission with rear-wheel drive or 4MATIC® all-wheel drive",
+                "fuelEfficiency": "24 MPG city / 35 MPG highway",
+                "infotainment": "11.9-inch touchscreen display with Mercedes-Benz User Experience (MBUX) and voice control",
+                "safety": "Active Brake Assist, Blind Spot Assist, and a suite of advanced driver assistance features",
+                "comfort": "Premium leather seating, dual-zone automatic climate control, and a panoramic sunroof"
+            },
+            "design": {
+                "exterior": "Sporty yet elegant, featuring a bold grille, sleek LED headlights, and sculpted lines that enhance aerodynamics.",
+                "interior": "A luxurious cabin crafted with high-quality materials, customizable ambient lighting, and an intuitive layout designed for the driver."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 5.9 seconds",
+                "handling": "Dynamic Select allows drivers to customize the driving experience with multiple modes.",
+                "drivingModes": "Comfort, Sport, and Eco modes for enhanced performance tailored to your driving preferences."
+            },
+            "technology": {
+                "audio": "Available Burmester® surround sound system for a premium audio experience",
+                "connectivity": "Apple CarPlay, Android Auto, and multiple USB-C ports for seamless connectivity",
+                "driverAssistance": "360-degree camera system, adaptive cruise control, and lane-keeping assist for added safety"
+            }
+        },
+        {
+            "id": 14,
+            "model": "2024 Hyundai Tucson",
+            "type": "SUV",
+            "brand": "Hyundai",
+            "price": 31000,
+            "image": "/img/New Cars/14_Hyundai Tucson 2024/Home.png",
+            "description": "The 2024 Hyundai Tucson is a stylish and versatile SUV that combines cutting-edge design with advanced safety features. With a spacious interior, innovative technology, and a commitment to sustainability, it’s the perfect companion for any adventure.",
+            "showcaseImages": [
+                "/img/New Cars/14_Hyundai Tucson 2024/Showcase1.png",
+                "/img/New Cars/14_Hyundai Tucson 2024/Showcase2.png",
+                "/img/New Cars/14_Hyundai Tucson 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/14_Hyundai Tucson 2024/Interior1.png",
+                "/img/New Cars/14_Hyundai Tucson 2024/Interior2.png",
+                "/img/New Cars/14_Hyundai Tucson 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.5L inline-4 engine",
+                "horsepower": 187,
+                "transmission": "8-speed automatic transmission",
+                "fuelEfficiency": "26 MPG city / 33 MPG highway",
+                "infotainment": "10.25-inch touchscreen display with navigation and smartphone integration",
+                "safety": "Hyundai SmartSense, including Forward Collision-Avoidance Assist and Lane Keeping Assist",
+                "comfort": "Heated front seats, dual-zone automatic climate control, and ample cargo space"
+            },
+            "design": {
+                "exterior": "Featuring a bold, cascading grille, sleek LED headlights, and a sculpted body that enhances aerodynamics.",
+                "interior": "A spacious cabin with a modern design, high-quality materials, and an intuitive layout for enhanced driver comfort."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 8.2 seconds",
+                "handling": "Precise steering and a smooth suspension system for a comfortable ride.",
+                "drivingModes": "Normal, Sport, and Eco modes to optimize performance for different driving conditions."
+            },
+            "technology": {
+                "audio": "Available premium audio system for an enhanced listening experience",
+                "connectivity": "Wireless Apple CarPlay and Android Auto for seamless smartphone integration",
+                "driverAssistance": "Blind-Spot Collision-Avoidance Assist and a rearview camera for added safety"
+            }
+        },
+        {
+            "id": 15,
+            "model": "2024 Ford Explorer",
+            "type": "SUV",
+            "brand": "Ford",
+            "price": 36000,
+            "image": "/img/New Cars/15_Ford Explorer 2024/Home.png",
+            "description": "The 2024 Ford Explorer is a versatile and spacious SUV designed for families and adventures alike. With its powerful performance, ample cargo space, and advanced technology features, it provides the perfect balance of comfort and capability for all your journeys.",
+            "showcaseImages": [
+                "/img/New Cars/15_Ford Explorer 2024/Showcase1.png",
+                "/img/New Cars/15_Ford Explorer 2024/Showcase2.png",
+                "/img/New Cars/15_Ford Explorer 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/15_Ford Explorer 2024/Interior1.png",
+                "/img/New Cars/15_Ford Explorer 2024/Interior2.png",
+                "/img/New Cars/15_Ford Explorer 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.3L EcoBoost® I-4 engine",
+                "horsepower": 300,
+                "transmission": "10-speed automatic transmission",
+                "fuelEfficiency": "21 MPG city / 28 MPG highway",
+                "infotainment": "12.3-inch digital instrument cluster and a 10.1-inch touchscreen display with SYNC® 4",
+                "safety": "Ford Co-Pilot360™, including Automatic Emergency Braking and Blind Spot Information System",
+                "comfort": "Seating for up to seven passengers, available heated and ventilated front seats, and tri-zone climate control"
+            },
+            "design": {
+                "exterior": "A bold and rugged exterior design with a prominent grille, LED headlights, and muscular body lines that convey strength.",
+                "interior": "A modern cabin featuring high-quality materials, a spacious layout, and customizable ambient lighting for a premium feel."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 6.6 seconds",
+                "handling": "Dynamic Torque Vectoring for enhanced cornering and stability.",
+                "drivingModes": "Eco, Normal, Sport, and Tow/Haul modes to accommodate various driving conditions."
+            },
+            "technology": {
+                "audio": "Available B&O Sound System for a premium audio experience",
+                "connectivity": "Wireless Apple CarPlay and Android Auto for seamless smartphone integration",
+                "driverAssistance": "Rearview camera, lane-keeping assist, and adaptive cruise control for added safety"
+            }
+        },
+        {
+            "id": 16,
+            "model": "2024 Mazda CX-5",
+            "type": "SUV",
+            "brand": "Mazda",
+            "price": 32000,
+            "image": "/img/New Cars/16_Mazda CX-5 2024/Home.png",
+            "description": "The 2024 Mazda CX-5 is a stylish and fun-to-drive compact SUV that blends performance and luxury. With its striking design, responsive handling, and a host of advanced features, the CX-5 is designed to elevate your driving experience.",
+            "showcaseImages": [
+                "/img/New Cars/16_Mazda CX-5 2024/Showcase1.png",
+                "/img/New Cars/16_Mazda CX-5 2024/Showcase2.png",
+                "/img/New Cars/16_Mazda CX-5 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/16_Mazda CX-5 2024/Interior1.png",
+                "/img/New Cars/16_Mazda CX-5 2024/Interior2.png",
+                "/img/New Cars/16_Mazda CX-5 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.5L Skyactiv®-G I-4 engine",
+                "horsepower": 187,
+                "transmission": "6-speed automatic transmission",
+                "fuelEfficiency": "24 MPG city / 30 MPG highway",
+                "infotainment": "10.25-inch center display with Mazda Connect™ infotainment system",
+                "safety": "i-Activsense® safety features, including Blind Spot Monitoring and Rear Cross Traffic Alert",
+                "comfort": "Available leather-trimmed seats, dual-zone automatic climate control, and a spacious cabin"
+            },
+            "design": {
+                "exterior": "The exterior showcases Mazda's Kodo design language, featuring sleek lines, a bold grille, and available LED headlights for a sophisticated look.",
+                "interior": "A driver-focused interior with high-quality materials, ergonomic controls, and an elegant design that enhances comfort and style."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 8.3 seconds",
+                "handling": "Precise steering and a sport-tuned suspension for an engaging driving experience.",
+                "drivingModes": "Sport mode for enhanced responsiveness, and a standard mode for everyday driving."
+            },
+            "technology": {
+                "audio": "Bose® 10-speaker sound system for an immersive audio experience",
+                "connectivity": "Apple CarPlay and Android Auto for seamless smartphone integration",
+                "driverAssistance": "Advanced driver-assistance features, including a rearview camera and adaptive cruise control"
+            }
+        },
+        {
+            "id": 17,
+            "model": "2024 Nissan Rogue",
+            "type": "SUV",
+            "brand": "Nissan",
+            "price": 28000,
+            "image": "/img/New Cars/17_Nissan Rogue 2024/Home.png",
+            "description": "The 2024 Nissan Rogue is a versatile SUV that offers a perfect blend of style, technology, and practicality. With ample cargo space and a comfortable interior, it's designed for both city driving and outdoor adventures.",
+            "showcaseImages": [
+                "/img/New Cars/17_Nissan Rogue 2024/Showcase1.png",
+                "/img/New Cars/17_Nissan Rogue 2024/Showcase2.png",
+                "/img/New Cars/17_Nissan Rogue 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/17_Nissan Rogue 2024/Interior1.png",
+                "/img/New Cars/17_Nissan Rogue 2024/Interior2.png",
+                "/img/New Cars/17_Nissan Rogue 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "1.5L VC-Turbo™ engine",
+                "horsepower": 201,
+                "transmission": "Continuously Variable Transmission (CVT)",
+                "fuelEfficiency": "26 MPG city / 33 MPG highway",
+                "infotainment": "8-inch touchscreen display with Apple CarPlay and Android Auto integration",
+                "safety": "Nissan Safety Shield® 360, including Automatic Emergency Braking and Rear Cross Traffic Alert",
+                "comfort": "Spacious cabin with available leather-appointed seating and dual-zone climate control"
+            },
+            "design": {
+                "exterior": "Sleek exterior design with a bold front grille and available LED headlights, combining modern aesthetics with functionality.",
+                "interior": "Thoughtfully designed interior that focuses on comfort and convenience, featuring quality materials and an intuitive layout."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 7.8 seconds",
+                "handling": "Responsive steering and a smooth ride, equipped with Intelligent All-Wheel Drive for added traction.",
+                "drivingModes": "Available driving modes, including Eco and Sport for tailored driving experiences."
+            },
+            "technology": {
+                "audio": "Bose® 9-speaker premium audio system for an immersive listening experience",
+                "connectivity": "Available Wi-Fi hotspot and USB-C ports for device charging and connectivity",
+                "driverAssistance": "Advanced driver-assistance features, including Intelligent Blind Spot Intervention and ProPILOT Assist"
+            }
+        },
+        {
+            "id": 18,
+            "model": "2024 Chevrolet Equinox",
+            "type": "SUV",
+            "brand": "Chevrolet",
+            "price": 29000,
+            "image": "/img/New Cars/18_Chevrolet Equinox 2024/Home.png",
+            "description": "The 2024 Chevrolet Equinox is a compact SUV that combines a comfortable interior with advanced safety features and modern technology, making it perfect for daily commuting and weekend adventures.",
+            "showcaseImages": [
+                "/img/New Cars/18_Chevrolet Equinox 2024/Showcase1.png",
+                "/img/New Cars/18_Chevrolet Equinox 2024/Showcase2.png",
+                "/img/New Cars/18_Chevrolet Equinox 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/18_Chevrolet Equinox 2024/Interior1.png",
+                "/img/New Cars/18_Chevrolet Equinox 2024/Interior2.png",
+                "/img/New Cars/18_Chevrolet Equinox 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "1.5L Turbocharged engine",
+                "horsepower": 170,
+                "transmission": "6-speed automatic transmission",
+                "fuelEfficiency": "26 MPG city / 31 MPG highway",
+                "infotainment": "7-inch touchscreen display with Apple CarPlay and Android Auto compatibility",
+                "safety": "Chevrolet Safety Assist, including Automatic Emergency Braking and Lane Keep Assist",
+                "comfort": "Spacious seating for up to five passengers, available heated front seats, and dual-zone climate control"
+            },
+            "design": {
+                "exterior": "Sleek and modern exterior design with a bold front grille and available LED daytime running lights for enhanced visibility.",
+                "interior": "Well-appointed interior with high-quality materials, ample cargo space, and easy-to-use technology interfaces."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 8.5 seconds",
+                "handling": "Responsive steering and a smooth ride, with available all-wheel drive for enhanced traction.",
+                "drivingModes": "Selectable driving modes for different driving conditions and preferences."
+            },
+            "technology": {
+                "audio": "Available premium audio system for an enriched listening experience",
+                "connectivity": "Multiple USB ports and a Wi-Fi hotspot for seamless connectivity",
+                "driverAssistance": "Available Adaptive Cruise Control and Rear Park Assist for added convenience"
+            }
+        },
+        {
+            "id": 19,
+            "model": "2024 Volkswagen Tiguan",
+            "type": "SUV",
+            "brand": "Volkswagen",
+            "price": 31000,
+            "image": "/img/New Cars/19_Volkswagen Tiguan 2024/Home.png",
+            "description": "The 2024 Volkswagen Tiguan is a versatile compact SUV that combines spacious seating for up to seven passengers with advanced technology and safety features, making it ideal for family outings and everyday commuting.",
+            "showcaseImages": [
+                "/img/New Cars/19_Volkswagen Tiguan 2024/Showcase1.png",
+                "/img/New Cars/19_Volkswagen Tiguan 2024/Showcase2.png",
+                "/img/New Cars/19_Volkswagen Tiguan 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/19_Volkswagen Tiguan 2024/Interior1.png",
+                "/img/New Cars/19_Volkswagen Tiguan 2024/Interior2.png",
+                "/img/New Cars/19_Volkswagen Tiguan 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.0L Turbocharged engine",
+                "horsepower": 184,
+                "transmission": "8-speed automatic transmission",
+                "fuelEfficiency": "23 MPG city / 29 MPG highway",
+                "infotainment": "8-inch touchscreen display with Apple CarPlay and Android Auto compatibility",
+                "safety": "Volkswagen IQ.DRIVE, including Forward Collision Warning and Blind Spot Monitoring",
+                "comfort": "Flexible seating configurations with available leatherette seating surfaces and dual-zone climate control"
+            },
+            "design": {
+                "exterior": "Sleek, modern exterior design with a distinctive front fascia and LED headlights for improved visibility.",
+                "interior": "Spacious interior with high-quality materials, thoughtful storage solutions, and intuitive controls."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 7.5 seconds",
+                "handling": "Responsive steering and a composed ride, with available 4Motion all-wheel drive for enhanced traction.",
+                "drivingModes": "Multiple driving modes to adapt to various road conditions."
+            },
+            "technology": {
+                "audio": "Available premium audio system for an immersive listening experience",
+                "connectivity": "Multiple USB ports and a Wi-Fi hotspot for convenient connectivity",
+                "driverAssistance": "Available Adaptive Cruise Control and Rear Traffic Alert for added safety and convenience"
+            }
+        },
+        {
+            "id": 20,
+            "model": "2024 Volvo XC60",
+            "type": "SUV",
+            "brand": "Volvo",
+            "price": 55000,
+            "image": "/img/New Cars/20_Volvo XC60 2024/Home.png",
+            "description": "The 2024 Volvo XC60 is a luxury SUV that combines advanced safety features, a serene interior, and cutting-edge technology for a truly exceptional driving experience. Designed with a focus on both comfort and sustainability, it embodies Volvo's commitment to quality.",
+            "showcaseImages": [
+                "/img/New Cars/20_Volvo XC60 2024/Showcase1.png",
+                "/img/New Cars/20_Volvo XC60 2024/Showcase2.png",
+                "/img/New Cars/20_Volvo XC60 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/20_Volvo XC60 2024/Interior1.png",
+                "/img/New Cars/20_Volvo XC60 2024/Interior2.png",
+                "/img/New Cars/20_Volvo XC60 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.0L turbocharged inline-4 engine",
+                "horsepower": 250,
+                "transmission": "8-speed automatic transmission",
+                "fuelEfficiency": "22 MPG city / 29 MPG highway",
+                "infotainment": "9-inch touchscreen with Sensus Connect, Apple CarPlay, and Android Auto compatibility",
+                "safety": "Volvo's Pilot Assist, including lane-keeping aid and adaptive cruise control",
+                "comfort": "Luxurious seating with available leather upholstery and panoramic sunroof for a spacious feel"
+            },
+            "design": {
+                "exterior": "Elegant exterior design with signature Volvo styling and LED headlights.",
+                "interior": "High-quality materials and a minimalist Scandinavian design that emphasizes comfort and functionality."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 6.9 seconds",
+                "handling": "Refined handling with responsive steering and an adaptable suspension system for a smooth ride.",
+                "drivingModes": "Multiple driving modes including Eco, Comfort, and Dynamic for tailored driving experiences."
+            },
+            "technology": {
+                "audio": "Bowers & Wilkins premium audio system for an exceptional listening experience",
+                "connectivity": "Integrated Wi-Fi hotspot and multiple USB ports for connectivity",
+                "driverAssistance": "Comprehensive suite of driver assistance features, including 360-degree camera and collision avoidance technology"
+            }
+        },
+        {
+            "id": 21,
+            "model": "2024 Acura RDX",
+            "type": "SUV",
+            "brand": "Acura",
+            "price": 43000,
+            "image": "/img/New Cars/21_Acura RDX 2024/Home.png",
+            "description": "The 2024 Acura RDX is a luxury compact SUV that masterfully blends performance, utility, and advanced technology. With its sporty handling, spacious interior, and innovative features, the RDX is designed for those who appreciate both style and functionality.",
+            "showcaseImages": [
+                "/img/New Cars/21_Acura RDX 2024/Showcase1.png",
+                "/img/New Cars/21_Acura RDX 2024/Showcase2.png",
+                "/img/New Cars/21_Acura RDX 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/21_Acura RDX 2024/Interior1.png",
+                "/img/New Cars/21_Acura RDX 2024/Interior2.png",
+                "/img/New Cars/21_Acura RDX 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.0L turbocharged inline-4 engine",
+                "horsepower": 272,
+                "transmission": "10-speed automatic transmission",
+                "fuelEfficiency": "22 MPG city / 28 MPG highway",
+                "infotainment": "10.2-inch dual-screen infotainment system with Apple CarPlay and Android Auto integration",
+                "safety": "AcuraWatch suite includes adaptive cruise control, lane-keeping assist, and collision mitigation braking",
+                "comfort": "Heated front seats with optional leather upholstery and a panoramic sunroof for an airy feel"
+            },
+            "design": {
+                "exterior": "Sporty and aggressive styling with distinctive LED headlights and a bold front grille.",
+                "interior": "Luxurious materials throughout the cabin, featuring ambient lighting and customizable options."
+            },
+            "performance": {
+                "acceleration": "0-60 mph in approximately 6.5 seconds",
+                "handling": "Dynamic handling with precision steering and available all-wheel drive for enhanced stability.",
+                "drivingModes": "Multiple driving modes including Comfort, Sport, and Snow to adapt to different driving conditions."
+            },
+            "technology": {
+                "audio": "ELS Studio premium audio system for a high-quality sound experience",
+                "connectivity": "Wi-Fi hotspot capability and multiple USB ports for device connectivity",
+                "driverAssistance": "Comprehensive driver assistance features including traffic sign recognition and rear cross-traffic alert"
+            }
+        },
+        {
+            "id": 22,
+            "model": "2024 Jeep Wrangler",
+            "type": "SUV",
+            "brand": "Jeep",
+            "price": 35000,
+            "image": "/img/New Cars/22_Jeep Wrangler 2024/Home.png",
+            "description": "The 2024 Jeep Wrangler is an off-road icon, built for adventure seekers who crave freedom and rugged capability. With a classic design and modern technology, the Wrangler is ready to tackle any terrain, making it the ultimate vehicle for outdoor enthusiasts.",
+            "showcaseImages": [
+                "/img/New Cars/22_Jeep Wrangler 2024/Showcase1.png",
+                "/img/New Cars/22_Jeep Wrangler 2024/Showcase2.png",
+                "/img/New Cars/22_Jeep Wrangler 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/22_Jeep Wrangler 2024/Interior1.png",
+                "/img/New Cars/22_Jeep Wrangler 2024/Interior2.png",
+                "/img/New Cars/22_Jeep Wrangler 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "3.6L V6 engine",
+                "horsepower": 285,
+                "transmission": "6-speed manual or 8-speed automatic transmission",
+                "fuelEfficiency": "17 MPG city / 25 MPG highway",
+                "infotainment": "8.4-inch touchscreen with Apple CarPlay and Android Auto compatibility",
+                "safety": "Advanced safety features including blind-spot monitoring and rear park assist",
+                "comfort": "Available leather seating and removable top for an open-air driving experience"
+            },
+            "design": {
+                "exterior": "Classic rugged styling with iconic seven-slot grille and round headlights.",
+                "interior": "Functional interior design with durable materials and weather-resistant surfaces."
+            },
+            "performance": {
+                "offRoadCapability": "Trail Rated® badge ensures exceptional off-road capability.",
+                "fourWheelDrive": "Available 4WD systems for enhanced traction on any terrain.",
+                "groundClearance": "High ground clearance for tackling obstacles with ease."
+            },
+            "technology": {
+                "audio": "Premium audio system for quality sound during outdoor adventures.",
+                "connectivity": "Multiple USB ports and a Wi-Fi hotspot for staying connected on the go.",
+                "navigation": "Off-road navigation system to help explore uncharted territories."
+            }
+        },
+        {
+            "id": 23,
+            "model": "2024 Ford F-150",
+            "type": "Pickup Truck",
+            "brand": "Ford",
+            "price": 42000,
+            "image": "/img/New Cars/23_Ford F-150 2024/Home.png",
+            "description": "The 2024 Ford F-150 is a rugged truck built for toughness and capability, perfect for both work and play. With a combination of advanced technology, powerful performance, and impressive towing capacity, the F-150 is designed to tackle any challenge.",
+            "showcaseImages": [
+                "/img/New Cars/23_Ford F-150 2024/Showcase1.png",
+                "/img/New Cars/23_Ford F-150 2024/Showcase2.png",
+                "/img/New Cars/23_Ford F-150 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/23_Ford F-150 2024/Interior1.png",
+                "/img/New Cars/23_Ford F-150 2024/Interior2.png",
+                "/img/New Cars/23_Ford F-150 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "Available 3.3L V6, 2.7L EcoBoost V6, or 5.0L V8 engine options",
+                "horsepower": "Up to 400 horsepower depending on the engine choice",
+                "transmission": "10-speed automatic transmission for smooth shifting",
+                "towingCapacity": "Towing capacity of up to 14,000 lbs when properly equipped",
+                "fuelEfficiency": "EPA-estimated 20 MPG city / 26 MPG highway",
+                "infotainment": "12-inch touchscreen with Ford SYNC 4 technology and smartphone integration",
+                "safety": "Ford Co-Pilot360™ technology for enhanced safety and driver-assistance features"
+            },
+            "design": {
+                "exterior": "Bold and muscular design with an aerodynamic profile.",
+                "interior": "Spacious and comfortable cabin with high-quality materials and ample storage solutions."
+            },
+            "performance": {
+                "fourWheelDrive": "Available four-wheel drive for enhanced traction and stability in various conditions.",
+                "payloadCapacity": "Payload capacity of up to 3,325 lbs, making it ideal for hauling heavy loads.",
+                "offRoadCapability": "Available FX4 Off-Road Package for improved off-road performance."
+            },
+            "technology": {
+                "audio": "Available Bang & Olufsen® premium audio system for an immersive listening experience.",
+                "connectivity": "Multiple USB ports and 4G LTE Wi-Fi hotspot capability.",
+                "navigation": "Integrated navigation system with real-time traffic updates."
+            }
+        },
+        {
+            "id": 24,
+            "model": "2024 Honda CR-V",
+            "type": "SUV",
+            "brand": "Honda",
+            "price": 32000,
+            "image": "/img/New Cars/24_Honda CR-V 2024/Home.png",
+            "description": "The 2024 Honda CR-V is a spacious SUV that delivers versatility and efficiency. With a modern design, advanced safety features, and ample cargo space, it’s perfect for families and adventure seekers alike.",
+            "showcaseImages": [
+                "/img/New Cars/24_Honda CR-V 2024/Showcase1.png",
+                "/img/New Cars/24_Honda CR-V 2024/Showcase2.png",
+                "/img/New Cars/24_Honda CR-V 2024/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/New Cars/24_Honda CR-V 2024/Interior1.png",
+                "/img/New Cars/24_Honda CR-V 2024/Interior2.png",
+                "/img/New Cars/24_Honda CR-V 2024/Interior3.png"
+            ],
+            "features": {
+                "engine": "1.5L turbocharged inline-4 engine for a balanced performance.",
+                "horsepower": "Up to 190 horsepower for responsive acceleration.",
+                "transmission": "Continuously Variable Transmission (CVT) for smooth driving.",
+                "fuelEfficiency": "EPA-estimated 28 MPG city / 34 MPG highway.",
+                "cargoSpace": "Ample cargo space with up to 76.5 cubic feet when rear seats are folded down.",
+                "safety": "Honda Sensing® suite of safety features, including Collision Mitigation Braking System and Adaptive Cruise Control."
+            },
+            "design": {
+                "exterior": "Sleek and modern exterior design with a bold front grille.",
+                "interior": "Comfortable and roomy interior with high-quality materials and user-friendly technology."
+            },
+            "performance": {
+                "drivingMode": "Eco Assist™ System for improved fuel efficiency.",
+                "allWheelDrive": "Available all-wheel drive for enhanced traction in various weather conditions."
+            },
+            "technology": {
+                "infotainment": "7-inch touchscreen display with Apple CarPlay® and Android Auto™ integration.",
+                "audio": "Available premium audio system for a high-quality listening experience.",
+                "connectivity": "Multiple USB ports and wireless charging capability."
+            }
+        }
+    ],
+    "usedCars": [
+        {
+            "id": 25,
+            "model": "2018 Honda Civic",
+            "type": "Sedan",
+            "brand": "Honda",
+            "price": 16000,
+            "image": "/img/Used Cars/1_Honda Civic 2018/Home.png",
+            "description": "The 2018 Honda Civic is a well-maintained, fuel-efficient sedan that offers a comfortable ride and reliable performance. Its sleek design, advanced safety features, and spacious interior make it a perfect choice for daily commuting and family trips.",
+            "showcaseImages": [
+                "/img/Used Cars/1_Honda Civic 2018/Showcase1.png",
+                "/img/Used Cars/1_Honda Civic 2018/Showcase2.png",
+                "/img/Used Cars/1_Honda Civic 2018/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/1_Honda Civic 2018/Interior1.png",
+                "/img/Used Cars/1_Honda Civic 2018/Interior2.png",
+                "/img/Used Cars/1_Honda Civic 2018/Interior3.png"
+            ],
+            "features": {
+                "engine": "2.0L inline-4 engine for a smooth and efficient drive.",
+                "horsepower": "Up to 158 horsepower, providing a responsive performance.",
+                "transmission": "Continuously Variable Transmission (CVT) for enhanced fuel efficiency.",
+                "fuelEfficiency": "EPA-estimated 28 MPG city / 40 MPG highway.",
+                "cargoSpace": "Ample trunk space with 15.1 cubic feet for all your storage needs.",
+                "safety": "Equipped with Honda Sensing® suite of safety technologies, including Lane Keeping Assist and Collision Mitigation Braking System."
+            },
+            "design": {
+                "exterior": "Sporty and aerodynamic design that enhances performance and fuel economy.",
+                "interior": "Modern interior with comfortable seating and intuitive layout for controls."
+            },
+            "performance": {
+                "drivingMode": "Eco Assist™ System to optimize fuel efficiency.",
+                "handling": "Responsive handling and ride comfort for a balanced driving experience."
+            },
+            "technology": {
+                "infotainment": "7-inch touchscreen display with Apple CarPlay® and Android Auto™ compatibility.",
+                "audio": "Available premium audio system with Bluetooth® connectivity.",
+                "connectivity": "Multiple USB ports and available navigation system."
+            }
+        },
+        {
+            "id": 26,
+            "model": "2017 Toyota Corolla",
+            "type": "Sedan",
+            "brand": "Toyota",
+            "price": 14000,
+            "image": "/img/Used Cars/2_2017 Toyota Corolla/Home.png",
+            "description": "The 2017 Toyota Corolla is a reliable and well-equipped sedan that boasts low mileage and excellent fuel efficiency. With a reputation for durability and comfort, it offers a smooth ride and advanced safety features, making it a great choice for everyday driving.",
+            "showcaseImages": [
+                "/img/Used Cars/2_2017 Toyota Corolla/Showcase1.png",
+                "/img/Used Cars/2_2017 Toyota Corolla/Showcase2.png",
+                "/img/Used Cars/2_2017 Toyota Corolla/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/2_2017 Toyota Corolla/Interior1.png",
+                "/img/Used Cars/2_2017 Toyota Corolla/Interior2.png",
+                "/img/Used Cars/2_2017 Toyota Corolla/Interior3.png"
+            ],
+            "features": {
+                "engine": "1.8L 4-cylinder engine that delivers a balance of power and efficiency.",
+                "horsepower": "Up to 132 horsepower, providing a responsive and efficient drive.",
+                "transmission": "Continuously Variable Transmission (CVT) for smooth acceleration.",
+                "fuelEfficiency": "EPA-estimated 28 MPG city / 36 MPG highway.",
+                "cargoSpace": "Generous trunk space with 13 cubic feet for your storage needs.",
+                "safety": "Standard Toyota Safety Sense™ features including Pre-Collision System and Lane Departure Alert."
+            },
+            "design": {
+                "exterior": "Sleek and modern exterior design with available LED headlights.",
+                "interior": "Comfortable and spacious interior with quality materials and user-friendly layout."
+            },
+            "performance": {
+                "drivingMode": "Eco mode for improved fuel efficiency.",
+                "handling": "Stable and smooth handling for an enjoyable driving experience."
+            },
+            "technology": {
+                "infotainment": "7-inch touchscreen display with Bluetooth® and audio streaming capabilities.",
+                "audio": "Available premium sound system for enhanced audio experience.",
+                "connectivity": "Multiple USB ports and available navigation system."
+            }
+        },
+        {
+            "id": 27,
+            "model": "2016 Ford Mustang",
+            "type": "Coupe",
+            "brand": "Ford",
+            "price": 24000,
+            "image": "/img/Used Cars/3_Ford Mustang 2016/Home.png",
+            "description": "The 2016 Ford Mustang is a legendary American muscle car that combines classic styling with modern performance. Known for its powerful engine options and thrilling driving experience, it boasts an aggressive look that turns heads. With a comfortable interior and advanced technology features, it offers both style and practicality.",
+            "showcaseImages": [
+                "/img/Used Cars/3_Ford Mustang 2016/Showcase1.png",
+                "/img/Used Cars/3_Ford Mustang 2016/Showcase2.png",
+                "/img/Used Cars/3_Ford Mustang 2016/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/3_Ford Mustang 2016/Interior1.png",
+                "/img/Used Cars/3_Ford Mustang 2016/Interior2.png",
+                "/img/Used Cars/3_Ford Mustang 2016/Interior3.png"
+            ],
+            "features": {
+                "engine": "Available with a 2.3L EcoBoost turbocharged engine or a 5.0L V8 engine.",
+                "horsepower": "Up to 435 horsepower with the V8 engine for exhilarating performance.",
+                "transmission": "6-speed manual or optional 6-speed automatic transmission for seamless shifting.",
+                "fuelEfficiency": "EPA-estimated 21 MPG city / 32 MPG highway with the EcoBoost engine.",
+                "cargoSpace": "Trunk space of 13.5 cubic feet for your essentials.",
+                "safety": "Equipped with advanced safety features including rearview camera and optional adaptive cruise control."
+            },
+            "design": {
+                "exterior": "Iconic design with aggressive lines and available racing stripes.",
+                "interior": "Driver-focused cockpit with premium materials and comfortable seating."
+            },
+            "performance": {
+                "drivingMode": "Selectable driving modes for a customized driving experience.",
+                "handling": "Responsive steering and precise handling for an engaging ride."
+            },
+            "technology": {
+                "infotainment": "8-inch touchscreen display with Ford's SYNC® system for connectivity.",
+                "audio": "Available premium sound system with subwoofer for enhanced audio.",
+                "connectivity": "Bluetooth® connectivity and USB ports for your devices."
+            }
+        },
+        {
+            "id": 28,
+            "model": "2019 Chevrolet Silverado",
+            "type": "Pickup Truck",
+            "brand": "Chevrolet",
+            "price": 30000,
+            "image": "/img/Used Cars/4_Chevrolet Silverado 2019/Home.png",
+            "description": "The 2019 Chevrolet Silverado is a powerful pickup truck designed for heavy-duty performance and versatility. With its robust towing capabilities and spacious cabin, it is perfect for both work and play. The Silverado combines ruggedness with modern technology, making it an ideal choice for truck enthusiasts.",
+            "showcaseImages": [
+                "/img/Used Cars/4_Chevrolet Silverado 2019/Showcase1.png",
+                "/img/Used Cars/4_Chevrolet Silverado 2019/Showcase2.png",
+                "/img/Used Cars/4_Chevrolet Silverado 2019/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/4_Chevrolet Silverado 2019/Interior1.png",
+                "/img/Used Cars/4_Chevrolet Silverado 2019/Interior2.png",
+                "/img/Used Cars/4_Chevrolet Silverado 2019/Interior3.png"
+            ],
+            "features": {
+                "engine": "Available with multiple engine options including a 4.3L V6 and a 5.3L V8.",
+                "towingCapacity": "Maximum towing capacity of up to 12,500 lbs when properly equipped.",
+                "cargoBed": "Various cargo bed lengths available to suit your needs.",
+                "fuelEfficiency": "EPA-estimated 16 MPG city / 23 MPG highway with the V8 engine.",
+                "safety": "Includes advanced safety features such as lane departure warning and forward collision alert."
+            },
+            "design": {
+                "exterior": "Bold and muscular design with a distinctive front grille and LED lighting.",
+                "interior": "Spacious cabin with durable materials and ample legroom for passengers."
+            },
+            "performance": {
+                "drivingMode": "Selectable driving modes to enhance performance based on driving conditions.",
+                "suspension": "Advanced suspension system for a smooth ride even on rough terrain."
+            },
+            "technology": {
+                "infotainment": "Chevrolet Infotainment 3 system with a 7-inch or 8-inch touchscreen.",
+                "audio": "Available premium audio system for an enhanced listening experience.",
+                "connectivity": "Apple CarPlay® and Android Auto™ compatibility for seamless smartphone integration."
+            }
+        },
+        {
+            "id": 29,
+            "model": "2021 Ford Bronco",
+            "type": "SUV",
+            "brand": "Ford",
+            "price": 38000,
+            "image": "/img/Used Cars/5_Ford Bronco 2021/Home.png",
+            "description": "The 2021 Ford Bronco is a rugged SUV designed for off-road adventures. With its classic styling and modern technology, it offers excellent off-road capabilities combined with a comfortable interior. Perfect for those who love exploration and outdoor activities.",
+            "showcaseImages": [
+                "/img/Used Cars/5_Ford Bronco 2021/Showcase1.png",
+                "/img/Used Cars/5_Ford Bronco 2021/Showcase2.png",
+                "/img/Used Cars/5_Ford Bronco 2021/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/5_Ford Bronco 2021/Interior1.png",
+                "/img/Used Cars/5_Ford Bronco 2021/Interior2.png",
+                "/img/Used Cars/5_Ford Bronco 2021/Interior3.png"
+            ],
+            "features": {
+                "engine": "Available with 2.3L EcoBoost I-4 or 2.7L EcoBoost V6 engines.",
+                "drivetrain": "4x4 system with advanced terrain management for superior off-road performance.",
+                "removableRoof": "Available removable roof and doors for an open-air experience.",
+                "fuelEfficiency": "EPA-estimated fuel economy of 20 MPG city / 22 MPG highway.",
+                "safety": "Includes Ford Co-Pilot360 technology for enhanced driver assistance."
+            },
+            "design": {
+                "exterior": "Iconic retro design with high ground clearance and robust stance.",
+                "interior": "Functional interior with durable materials and modern amenities."
+            },
+            "performance": {
+                "offRoad": "Exceptional off-road capabilities with multiple driving modes.",
+                "suspension": "Independent front suspension for improved ride quality on various terrains."
+            },
+            "technology": {
+                "infotainment": "Ford SYNC 4 with a responsive touchscreen and available navigation.",
+                "audio": "Available Bang & Olufsen sound system for premium audio experience.",
+                "connectivity": "Smartphone integration with Apple CarPlay® and Android Auto™."
+            }
+        },
+        {
+            "id": 30,
+            "model": "2017 Hyundai Santa Fe",
+            "type": "SUV",
+            "brand": "Hyundai",
+            "price": 21000,
+            "image": "/img/Used Cars/6_Hyundai Santa Fe 2017/Home.png",
+            "description": "The 2017 Hyundai Santa Fe is a comfortable SUV that offers plenty of room for passengers and cargo. With its spacious interior, advanced safety features, and user-friendly technology, it's an excellent choice for families and those seeking a reliable and versatile vehicle.",
+            "showcaseImages": [
+                "/img/Used Cars/6_Hyundai Santa Fe 2017/Showcase1.png",
+                "/img/Used Cars/6_Hyundai Santa Fe 2017/Showcase2.png",
+                "/img/Used Cars/6_Hyundai Santa Fe 2017/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/6_Hyundai Santa Fe 2017/Interior1.png",
+                "/img/Used Cars/6_Hyundai Santa Fe 2017/Interior2.png",
+                "/img/Used Cars/6_Hyundai Santa Fe 2017/Interior3.png"
+            ],
+            "features": {
+                "engine": "Available with a 2.4L 4-cylinder or 3.3L V6 engine for balanced performance.",
+                "drivetrain": "Front-wheel drive or all-wheel drive options for improved traction.",
+                "cargoSpace": "Spacious cargo area with split-folding rear seats for added versatility.",
+                "fuelEfficiency": "EPA-estimated fuel economy of 21 MPG city / 27 MPG highway.",
+                "safety": "Equipped with advanced safety features including rearview camera and blind-spot monitoring."
+            },
+            "design": {
+                "exterior": "Stylish design with a bold front grille and modern LED lighting.",
+                "interior": "Roomy cabin with high-quality materials and comfortable seating."
+            },
+            "performance": {
+                "handling": "Smooth handling and a comfortable ride, suitable for city and highway driving.",
+                "suspension": "Well-tuned suspension system for a balanced ride."
+            },
+            "technology": {
+                "infotainment": "Touchscreen display with Bluetooth connectivity and available navigation.",
+                "audio": "Premium audio system with multiple speaker options for enhanced sound.",
+                "connectivity": "Apple CarPlay® and Android Auto™ compatibility for seamless smartphone integration."
+            }
+        },
+        {
+            "id": 31,
+            "model": "2018 Nissan Murano",
+            "type": "SUV",
+            "brand": "Nissan",
+            "price": 26000,
+            "image": "/img/Used Cars/7_Nissan Murano 2018/Home.png",
+            "description": "The 2018 Nissan Murano is a stylish SUV that offers premium features and a refined driving experience. With its upscale interior, advanced safety technologies, and smooth performance, the Murano is perfect for those seeking both comfort and sophistication.",
+            "showcaseImages": [
+                "/img/Used Cars/7_Nissan Murano 2018/Showcase1.png",
+                "/img/Used Cars/7_Nissan Murano 2018/Showcase2.png",
+                "/img/Used Cars/7_Nissan Murano 2018/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/7_Nissan Murano 2018/Interior1.png",
+                "/img/Used Cars/7_Nissan Murano 2018/Interior2.png",
+                "/img/Used Cars/7_Nissan Murano 2018/Interior3.png"
+            ],
+            "features": {
+                "engine": "Equipped with a 3.5L V6 engine for smooth and responsive power delivery.",
+                "drivetrain": "Available in front-wheel drive or all-wheel drive for enhanced traction.",
+                "cargoSpace": "Generous cargo space with easy-to-fold rear seats for added versatility.",
+                "fuelEfficiency": "EPA-estimated fuel economy of 21 MPG city / 28 MPG highway.",
+                "safety": "Includes advanced safety features such as forward collision warning and automatic emergency braking."
+            },
+            "design": {
+                "exterior": "Sleek and modern design with a distinctive V-motion grille and elegant curves.",
+                "interior": "Upscale cabin with high-quality materials, spacious seating, and a panoramic moonroof."
+            },
+            "performance": {
+                "handling": "Smooth handling and a quiet ride, ideal for both city and highway driving.",
+                "suspension": "Advanced suspension system designed for comfort and stability."
+            },
+            "technology": {
+                "infotainment": "7-inch touchscreen display with Bluetooth connectivity and available navigation.",
+                "audio": "Premium audio system with available satellite radio and USB connectivity.",
+                "connectivity": "Apple CarPlay® and Android Auto™ integration for seamless smartphone access."
+            }
+        },
+        {
+            "id": 32,
+            "model": "2018 Subaru Outback",
+            "type": "Crossover",
+            "brand": "Subaru",
+            "price": 25000,
+            "image": "/img/Used Cars/8_Subaru Outback 2018/Home.png",
+            "description": "The 2018 Subaru Outback is a versatile crossover that offers exceptional all-wheel drive capabilities, making it ideal for both urban and off-road adventures. With a spacious interior, advanced safety features, and a comfortable ride, the Outback is perfect for families and outdoor enthusiasts alike.",
+            "showcaseImages": [
+                "/img/Used Cars/8_Subaru Outback 2018/Showcase1.png",
+                "/img/Used Cars/8_Subaru Outback 2018/Showcase2.png",
+                "/img/Used Cars/8_Subaru Outback 2018/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/8_Subaru Outback 2018/Interior1.png",
+                "/img/Used Cars/8_Subaru Outback 2018/Interior2.png",
+                "/img/Used Cars/8_Subaru Outback 2018/Interior3.png"
+            ],
+            "features": {
+                "engine": "Equipped with a 2.5L 4-cylinder engine for a balanced blend of power and efficiency.",
+                "drivetrain": "Standard all-wheel drive for superior handling and traction in all conditions.",
+                "cargoSpace": "Ample cargo space with a versatile rear seat layout for added convenience.",
+                "fuelEfficiency": "EPA-estimated fuel economy of 25 MPG city / 32 MPG highway.",
+                "safety": "Comes with Subaru's EyeSight Driver Assist Technology, including adaptive cruise control and lane keep assist."
+            },
+            "design": {
+                "exterior": "Robust and rugged design, ideal for outdoor exploration.",
+                "interior": "Roomy interior with quality materials and intuitive layout for enhanced comfort."
+            },
+            "performance": {
+                "handling": "Responsive handling and a smooth ride, making it suitable for both city driving and rough terrains.",
+                "suspension": "Standard raised suspension to improve ground clearance and capability."
+            },
+            "technology": {
+                "infotainment": "7-inch touchscreen display with smartphone integration for easy connectivity.",
+                "audio": "Available premium audio system with Bluetooth and USB connectivity.",
+                "connectivity": "Apple CarPlay® and Android Auto™ for seamless smartphone access."
+            }
+        },
+        {
+            "id": 33,
+            "model": "2020 Subaru Forester",
+            "type": "Crossover",
+            "brand": "Subaru",
+            "price": 25000,
+            "image": "/img/Used Cars/9_Subaru Forester 2020/Home.png",
+            "description": "The 2020 Subaru Forester is a versatile crossover that offers exceptional all-wheel drive capabilities, making it ideal for both urban and off-road adventures. With a spacious interior, advanced safety features, and a comfortable ride, the Forester is perfect for families and outdoor enthusiasts alike.",
+            "showcaseImages": [
+                "/img/Used Cars/9_Subaru Forester 2020/Showcase1.png",
+                "/img/Used Cars/9_Subaru Forester 2020/Showcase2.png",
+                "/img/Used Cars/9_Subaru Forester 2020/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/9_Subaru Forester 2020/Interior1.png",
+                "/img/Used Cars/9_Subaru Forester 2020/Interior2.png",
+                "/img/Used Cars/9_Subaru Forester 2020/Interior3.png"
+            ],
+            "features": {
+                "engine": "Equipped with a 2.5L 4-cylinder engine that balances power and fuel efficiency.",
+                "drivetrain": "Standard all-wheel drive for superior traction and handling on various terrains.",
+                "cargoSpace": "Generous cargo capacity with a flat load floor for easy loading and unloading.",
+                "fuelEfficiency": "EPA-estimated fuel economy of 26 MPG city / 33 MPG highway.",
+                "safety": "Includes Subaru's EyeSight Driver Assist Technology, featuring adaptive cruise control and pre-collision braking."
+            },
+            "design": {
+                "exterior": "Bold and rugged exterior design, complemented by high ground clearance for off-road capability.",
+                "interior": "Spacious and comfortable interior with premium materials and ample headroom."
+            },
+            "performance": {
+                "handling": "Responsive steering and confident handling, suitable for both city and off-road driving.",
+                "suspension": "Tuned suspension for a smooth ride, absorbing bumps and providing stability."
+            },
+            "technology": {
+                "infotainment": "Standard 6.5-inch touchscreen display with Apple CarPlay® and Android Auto™ for seamless smartphone integration.",
+                "audio": "Available premium audio system with multiple connectivity options for an enhanced audio experience.",
+                "connectivity": "Bluetooth connectivity for hands-free calling and audio streaming."
+            }
+        },
+        {
+            "id": 34,
+            "model": "2020 Volkswagen Jetta",
+            "type": "Sedan",
+            "brand": "Volkswagen",
+            "price": 27000,
+            "image": "/img/Used Cars/10_Volkswagen Jetta 2020/Home.png",
+            "description": "The 2020 Volkswagen Jetta is a compact sedan known for its comfortable ride, modern technology, and impressive fuel efficiency. With its spacious interior and advanced safety features, the Jetta is perfect for daily commuting and long drives.",
+            "showcaseImages": [
+                "/img/Used Cars/10_Volkswagen Jetta 2020/Showcase1.png",
+                "/img/Used Cars/10_Volkswagen Jetta 2020/Showcase2.png",
+                "/img/Used Cars/10_Volkswagen Jetta 2020/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/10_Volkswagen Jetta 2020/Interior1.png",
+                "/img/Used Cars/10_Volkswagen Jetta 2020/Interior2.png",
+                "/img/Used Cars/10_Volkswagen Jetta 2020/Interior3.png"
+            ],
+            "features": {
+                "engine": "Powered by a 1.4L turbocharged 4-cylinder engine, providing a blend of performance and efficiency.",
+                "drivetrain": "Front-wheel drive with smooth transmission options for a dynamic driving experience.",
+                "cargoSpace": "Generous trunk space with a split-folding rear seat for added versatility.",
+                "fuelEfficiency": "EPA-estimated fuel economy of 30 MPG city / 40 MPG highway.",
+                "safety": "Equipped with advanced safety features including forward collision warning and automatic emergency braking."
+            },
+            "design": {
+                "exterior": "Sleek and modern design with clean lines and a sophisticated stance.",
+                "interior": "Spacious interior with high-quality materials and an intuitive layout for enhanced comfort."
+            },
+            "performance": {
+                "handling": "Responsive steering and composed handling for a confident driving experience.",
+                "suspension": "Tuned suspension for a balanced ride, providing comfort on various road conditions."
+            },
+            "technology": {
+                "infotainment": "8-inch touchscreen infotainment system with navigation and smartphone integration.",
+                "audio": "Available premium audio system with USB and Bluetooth connectivity for an enhanced listening experience.",
+                "connectivity": "Apple CarPlay® and Android Auto™ integration for seamless smartphone connectivity."
+            }
+        },
+        {
+            "id": 35,
+            "model": "2018 BMW 3 Series",
+            "type": "Sedan",
+            "brand": "BMW",
+            "price": 36000,
+            "image": "/img/Used Cars/11_BMW 3 Series 2018/Home.png",
+            "description": "The 2018 BMW 3 Series is a luxury sedan that seamlessly combines performance and comfort, making it a top choice for driving enthusiasts. With its precise handling, premium interior, and advanced technology, the 3 Series delivers a thrilling driving experience.",
+            "showcaseImages": [
+                "/img/Used Cars/11_BMW 3 Series 2018/Showcase1.png",
+                "/img/Used Cars/11_BMW 3 Series 2018/Showcase2.png",
+                "/img/Used Cars/11_BMW 3 Series 2018/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/11_BMW 3 Series 2018/Interior1.png",
+                "/img/Used Cars/11_BMW 3 Series 2018/Interior2.png",
+                "/img/Used Cars/11_BMW 3 Series 2018/Interior3.png"
+            ],
+            "features": {
+                "engine": "Available with a turbocharged 2.0L 4-cylinder or a 3.0L inline-6 for a balanced mix of power and efficiency.",
+                "drivetrain": "Rear-wheel drive (with available xDrive all-wheel drive) for dynamic handling.",
+                "cargoSpace": "Adequate trunk space with approximately 17 cubic feet of cargo capacity.",
+                "fuelEfficiency": "EPA-estimated fuel economy of up to 26 MPG city / 36 MPG highway.",
+                "safety": "Equipped with numerous safety features, including advanced airbags and stability control."
+            },
+            "design": {
+                "exterior": "Classic BMW design with a sporty silhouette and aggressive stance.",
+                "interior": "Luxurious cabin featuring high-quality materials, comfortable seating, and a driver-centric layout."
+            },
+            "performance": {
+                "handling": "Sharp and responsive steering for an engaging driving experience.",
+                "suspension": "Sport-tuned suspension that balances comfort with performance."
+            },
+            "technology": {
+                "infotainment": "Equipped with BMW's iDrive infotainment system, featuring a high-resolution display and intuitive controls.",
+                "audio": "Available premium audio systems for an immersive sound experience.",
+                "connectivity": "Includes Bluetooth, USB ports, and smartphone integration for seamless connectivity."
+            }
+        },
+        {
+            "id": 36,
+            "model": "2017 Audi Q5",
+            "type": "SUV",
+            "brand": "Audi",
+            "price": 38000,
+            "image": "/img/Used Cars/12_Audi Q5 2017/Home.png",
+            "description": "The 2017 Audi Q5 is a luxury SUV that combines comfort, advanced technology, and impressive capability. Its refined interior, smooth ride, and strong performance make it a popular choice among discerning drivers.",
+            "showcaseImages": [
+                "/img/Used Cars/12_Audi Q5 2017/Showcase1.png",
+                "/img/Used Cars/12_Audi Q5 2017/Showcase2.png",
+                "/img/Used Cars/12_Audi Q5 2017/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/12_Audi Q5 2017/Interior1.png",
+                "/img/Used Cars/12_Audi Q5 2017/Interior2.png",
+                "/img/Used Cars/12_Audi Q5 2017/Interior3.png"
+            ],
+            "features": {
+                "engine": "Available with a turbocharged 2.0L 4-cylinder or a 3.0L V6 engine for balanced power and efficiency.",
+                "drivetrain": "Quattro all-wheel drive system for enhanced traction and control.",
+                "cargoSpace": "Versatile cargo area with approximately 29.1 cubic feet of space behind the rear seats, expandable to 63.3 cubic feet.",
+                "fuelEfficiency": "EPA-estimated fuel economy of up to 20 MPG city / 28 MPG highway.",
+                "safety": "Equipped with a variety of safety features, including advanced airbags and stability control."
+            },
+            "design": {
+                "exterior": "Elegant exterior design with distinctive Audi styling and LED headlights.",
+                "interior": "Luxurious cabin featuring high-quality materials, spacious seating, and advanced technology."
+            },
+            "performance": {
+                "handling": "Balanced handling with a comfortable ride and precise steering.",
+                "suspension": "Adaptive suspension system for improved ride quality and performance."
+            },
+            "technology": {
+                "infotainment": "Features Audi's MMI infotainment system with a high-resolution display and intuitive controls.",
+                "audio": "Available premium audio systems for a rich sound experience.",
+                "connectivity": "Includes Bluetooth, USB ports, and smartphone integration for seamless connectivity."
+            }
+        },
+        {
+            "id": 37,
+            "model": "2019 Mercedes-Benz C-Class",
+            "type": "Sedan",
+            "brand": "Mercedes",
+            "price": 45000,
+            "image": "/img/Used Cars/13_Mercedes-Benz C-Class 2019/Home.png",
+            "description": "The 2019 Mercedes-Benz C-Class is a luxury sedan that combines elegance, advanced technology, and impressive performance. With its refined interior and sophisticated features, it delivers a driving experience that's both dynamic and comfortable.",
+            "showcaseImages": [
+                "/img/Used Cars/13_Mercedes-Benz C-Class 2019/Showcase1.png",
+                "/img/Used Cars/13_Mercedes-Benz C-Class 2019/Showcase2.png",
+                "/img/Used Cars/13_Mercedes-Benz C-Class 2019/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/13_Mercedes-Benz C-Class 2019/Interior1.png",
+                "/img/Used Cars/13_Mercedes-Benz C-Class 2019/Interior2.png",
+                "/img/Used Cars/13_Mercedes-Benz C-Class 2019/Interior3.png"
+            ],
+            "features": {
+                "engine": "Available with a turbocharged 2.0L inline-4 engine producing up to 255 horsepower.",
+                "drivetrain": "Rear-wheel drive (RWD) with optional 4MATIC all-wheel drive.",
+                "cargoSpace": "Trunk capacity of approximately 12.6 cubic feet, offering practical storage.",
+                "fuelEfficiency": "EPA-estimated fuel economy of up to 24 MPG city / 34 MPG highway.",
+                "safety": "Includes advanced safety features such as active brake assist, collision prevention, and multiple airbags."
+            },
+            "design": {
+                "exterior": "Sleek and sophisticated exterior with a bold front grille and signature LED headlights.",
+                "interior": "Luxurious interior with high-quality materials, ambient lighting, and ergonomic seating."
+            },
+            "performance": {
+                "handling": "Smooth handling with a refined ride quality, ideal for both city and highway driving.",
+                "suspension": "Adaptive suspension available for enhanced comfort and performance."
+            },
+            "technology": {
+                "infotainment": "Equipped with the MBUX infotainment system featuring a touchpad controller and voice recognition.",
+                "audio": "Premium audio system options available for an immersive listening experience.",
+                "connectivity": "Includes Bluetooth, USB ports, and smartphone integration for seamless connectivity."
+            }
+        },
+        {
+            "id": 38,
+            "model": "2020 Jeep Compass",
+            "type": "SUV",
+            "brand": "Jeep",
+            "price": 24000,
+            "image": "/img/Used Cars/14_Jeep Compass 2020/Home.png",
+            "description": "The 2020 Jeep Compass is a stylish SUV that combines contemporary design with advanced safety features. It offers a comfortable ride, ample cargo space, and the legendary off-road capability that Jeep is known for.",
+            "showcaseImages": [
+                "/img/Used Cars/14_Jeep Compass 2020/Showcase1.png",
+                "/img/Used Cars/14_Jeep Compass 2020/Showcase2.png",
+                "/img/Used Cars/14_Jeep Compass 2020/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/14_Jeep Compass 2020/Interior1.png",
+                "/img/Used Cars/14_Jeep Compass 2020/Interior2.png",
+                "/img/Used Cars/14_Jeep Compass 2020/Interior3.png"
+            ],
+            "features": {
+                "engine": "Equipped with a 2.4L inline-4 engine producing up to 180 horsepower.",
+                "drivetrain": "Available in front-wheel drive (FWD) or Jeep's Active Drive 4x4 system.",
+                "cargoSpace": "Generous cargo space of up to 65.4 cubic feet with rear seats folded down.",
+                "fuelEfficiency": "EPA-estimated fuel economy of up to 22 MPG city / 30 MPG highway.",
+                "safety": "Comes with standard safety features including blind-spot monitoring, rear cross-path detection, and adaptive cruise control."
+            },
+            "design": {
+                "exterior": "Distinctive exterior styling with a bold front grille and sleek lines.",
+                "interior": "Comfortable and well-designed interior with quality materials and user-friendly layout."
+            },
+            "performance": {
+                "handling": "Smooth handling with a composed ride, suitable for both city and off-road conditions.",
+                "suspension": "Available off-road suspension options for enhanced capability."
+            },
+            "technology": {
+                "infotainment": "Features the Uconnect infotainment system with a touchscreen display and smartphone integration.",
+                "audio": "Premium audio system available for an enhanced listening experience.",
+                "connectivity": "Includes Bluetooth, USB ports, and available navigation system."
+            }
+        },
+        {
+            "id": 39,
+            "model": "2018 Jeep Cherokee",
+            "type": "SUV",
+            "brand": "Jeep",
+            "price": 24000,
+            "image": "/img/Used Cars/15_Jeep Cherokee 2018/Home.png",
+            "description": "The 2018 Jeep Cherokee is a capable SUV designed for adventure, offering excellent off-road abilities, a comfortable interior, and a variety of technology features. Its rugged styling is complemented by a spacious cabin, making it ideal for both daily commutes and weekend getaways.",
+            "showcaseImages": [
+                "/img/Used Cars/15_Jeep Cherokee 2018/Showcase1.png",
+                "/img/Used Cars/15_Jeep Cherokee 2018/Showcase2.png",
+                "/img/Used Cars/15_Jeep Cherokee 2018/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/15_Jeep Cherokee 2018/Interior1.png",
+                "/img/Used Cars/15_Jeep Cherokee 2018/Interior2.png",
+                "/img/Used Cars/15_Jeep Cherokee 2018/Interior3.png"
+            ],
+            "features": {
+                "engine": "Powered by a choice of engines, including a 2.4L inline-4 or a more powerful 3.2L V6 option.",
+                "drivetrain": "Available in front-wheel drive (FWD) or four-wheel drive (4WD) configurations.",
+                "cargoSpace": "Offers up to 54.9 cubic feet of cargo space with the rear seats folded down.",
+                "fuelEfficiency": "EPA-estimated fuel economy of up to 21 MPG city / 29 MPG highway.",
+                "safety": "Equipped with advanced safety features such as lane departure warning, rear parking sensors, and adaptive cruise control."
+            },
+            "design": {
+                "exterior": "Features a distinctive front fascia, rugged body lines, and available off-road packages.",
+                "interior": "Spacious and functional interior with high-quality materials and user-friendly technology."
+            },
+            "performance": {
+                "handling": "Balanced handling with a comfortable ride and responsive steering.",
+                "offRoadCapability": "Off-road capable with options like hill descent control and all-terrain tires."
+            },
+            "technology": {
+                "infotainment": "Comes with the Uconnect infotainment system featuring a touchscreen interface and smartphone connectivity.",
+                "audio": "Available premium audio system for superior sound quality.",
+                "connectivity": "Includes Bluetooth, USB ports, and optional navigation."
+            }
+        },
+        {
+            "id": 40,
+            "model": "2017 Ford Escape",
+            "type": "SUV",
+            "brand": "Ford",
+            "price": 19000,
+            "image": "/img/Used Cars/16_2017 Ford Escape/Home.png",
+            "description": "The 2017 Ford Escape is a versatile SUV that balances style, functionality, and advanced technology. With its spacious interior, ample cargo capacity, and user-friendly infotainment system, it’s designed for both daily commutes and family adventures.",
+            "showcaseImages": [
+                "/img/Used Cars/16_2017 Ford Escape/Showcase1.png",
+                "/img/Used Cars/16_2017 Ford Escape/Showcase2.png",
+                "/img/Used Cars/16_2017 Ford Escape/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/16_2017 Ford Escape/Interior1.png",
+                "/img/Used Cars/16_2017 Ford Escape/Interior2.png",
+                "/img/Used Cars/16_2017 Ford Escape/Interior3.png"
+            ],
+            "features": {
+                "engine": "Available with a choice of three engines: a 2.5L inline-4, a 1.5L turbocharged inline-4, or a more powerful 2.0L turbocharged inline-4.",
+                "drivetrain": "Offers both front-wheel drive (FWD) and all-wheel drive (AWD) options.",
+                "cargoSpace": "Provides up to 68 cubic feet of cargo space with the rear seats folded.",
+                "fuelEfficiency": "EPA-estimated fuel economy of up to 21 MPG city / 28 MPG highway.",
+                "safety": "Features include a rearview camera, blind spot monitoring, and available adaptive cruise control."
+            },
+            "design": {
+                "exterior": "Sporty exterior with a sleek profile and modern front-end design.",
+                "interior": "Comfortable cabin with high-quality materials and intuitive layout."
+            },
+            "performance": {
+                "handling": "Responsive handling and a smooth ride, making it enjoyable to drive.",
+                "offRoadCapability": "The available AWD system enhances traction on various terrains."
+            },
+            "technology": {
+                "infotainment": "Equipped with Ford's SYNC infotainment system, featuring a touchscreen display, voice recognition, and smartphone integration.",
+                "audio": "Optional premium audio system available for an enhanced listening experience.",
+                "connectivity": "Includes USB ports, Bluetooth, and available navigation."
+            }
+        },
+        {
+            "id": 41,
+            "model": "2021 Toyota RAV4",
+            "type": "SUV",
+            "brand": "Toyota",
+            "price": 30000,
+            "image": "/img/Used Cars/17_2021 Toyota RAV4/Home.png",
+            "description": "The 2021 Toyota RAV4 is a popular SUV that combines a spacious interior, advanced safety features, and a strong reputation for reliability. Ideal for families and adventure-seekers alike, it offers versatility for everyday driving.",
+            "showcaseImages": [
+                "/img/Used Cars/17_2021 Toyota RAV4/Showcase1.png",
+                "/img/Used Cars/17_2021 Toyota RAV4/Showcase2.png",
+                "/img/Used Cars/17_2021 Toyota RAV4/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/17_2021 Toyota RAV4/Interior1.png",
+                "/img/Used Cars/17_2021 Toyota RAV4/Interior2.png",
+                "/img/Used Cars/17_2021 Toyota RAV4/Interior3.png"
+            ],
+            "features": {
+                "engine": "Powered by a 2.5L 4-cylinder engine that provides a balanced mix of power and efficiency.",
+                "drivetrain": "Available with front-wheel drive (FWD) and all-wheel drive (AWD) configurations.",
+                "cargoSpace": "Offers up to 69.8 cubic feet of cargo space with the rear seats down.",
+                "fuelEfficiency": "EPA-rated fuel economy of up to 28 MPG city / 35 MPG highway.",
+                "safety": "Equipped with Toyota Safety Sense, including adaptive cruise control, lane departure alert, and pre-collision system."
+            },
+            "design": {
+                "exterior": "Stylish and rugged exterior with bold lines and a commanding presence on the road.",
+                "interior": "Well-designed cabin featuring high-quality materials and a modern layout."
+            },
+            "performance": {
+                "handling": "Smooth ride with responsive steering and a confident feel on the road.",
+                "offRoadCapability": "The AWD system enhances performance on various terrains, making it suitable for light off-roading."
+            },
+            "technology": {
+                "infotainment": "Includes an easy-to-use infotainment system with a touchscreen, Apple CarPlay, and Android Auto compatibility.",
+                "audio": "Optional premium audio system for an enhanced listening experience.",
+                "connectivity": "Features Bluetooth, USB ports, and available navigation."
+            }
+        },
+        {
+            "id": 42,
+            "model": "2020 Honda CR-V",
+            "type": "SUV",
+            "brand": "Honda",
+            "price": 27000,
+            "image": "/img/Used Cars/18_2020 Honda CR-V/Home.png",
+            "description": "The 2020 Honda CR-V is a spacious and capable SUV designed for all seasons, offering a perfect balance of comfort, utility, and advanced safety features. Its versatile interior makes it ideal for families and adventure enthusiasts.",
+            "showcaseImages": [
+                "/img/Used Cars/18_2020 Honda CR-V/Showcase1.png",
+                "/img/Used Cars/18_2020 Honda CR-V/Showcase2.png",
+                "/img/Used Cars/18_2020 Honda CR-V/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/18_2020 Honda CR-V/Interior1.png",
+                "/img/Used Cars/18_2020 Honda CR-V/Interior2.png",
+                "/img/Used Cars/18_2020 Honda CR-V/Interior3.png"
+            ],
+            "features": {
+                "engine": "Equipped with a 1.5L turbocharged 4-cylinder engine, providing a blend of performance and efficiency.",
+                "drivetrain": "Available in both front-wheel drive (FWD) and all-wheel drive (AWD) options.",
+                "cargoSpace": "Generous cargo space of up to 75.8 cubic feet with the rear seats folded down.",
+                "fuelEfficiency": "EPA-rated fuel economy of up to 28 MPG city / 34 MPG highway.",
+                "safety": "Comes with Honda Sensing, featuring adaptive cruise control, collision mitigation braking, and lane keeping assist."
+            },
+            "design": {
+                "exterior": "Sleek and modern design with a spacious and approachable stance.",
+                "interior": "Well-appointed cabin with quality materials and a user-friendly layout."
+            },
+            "performance": {
+                "handling": "Smooth and responsive handling with a comfortable ride on various road conditions.",
+                "offRoadCapability": "The AWD option enhances traction and stability in adverse weather conditions."
+            },
+            "technology": {
+                "infotainment": "Features a user-friendly infotainment system with a touchscreen, Apple CarPlay, and Android Auto compatibility.",
+                "audio": "Optional premium audio system for an elevated sound experience.",
+                "connectivity": "Includes Bluetooth, multiple USB ports, and available navigation."
+            }
+        },
+        {
+            "id": 43,
+            "model": "2019 Ford F-150",
+            "type": "Pickup Truck",
+            "brand": "Ford",
+            "price": 24000,
+            "image": "/img/Used Cars/19_2019 Ford F-150/Home.png",
+            "description": "The 2019 Ford F-150 is a rugged and versatile pickup truck known for its impressive towing and payload capabilities, making it ideal for both work and play. With a spacious cabin and advanced technology, it provides a comfortable and connected driving experience.",
+            "showcaseImages": [
+                "/img/Used Cars/19_2019 Ford F-150/Showcase1.png",
+                "/img/Used Cars/19_2019 Ford F-150/Showcase2.png",
+                "/img/Used Cars/19_2019 Ford F-150/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/19_2019 Ford F-150/Interior1.png",
+                "/img/Used Cars/19_2019 Ford F-150/Interior2.png",
+                "/img/Used Cars/19_2019 Ford F-150/Interior3.png"
+            ],
+            "features": {
+                "engine": "Powered by a 2.7L EcoBoost V6 engine, offering a balance of power and fuel efficiency.",
+                "drivetrain": "Available in rear-wheel drive (RWD) or four-wheel drive (4WD) configurations.",
+                "towingCapacity": "Impressive towing capacity of up to 13,200 lbs when properly equipped.",
+                "payloadCapacity": "Payload capacity of up to 3,270 lbs, making it ideal for heavy loads.",
+                "safety": "Equipped with advanced safety features including adaptive cruise control and blind-spot monitoring."
+            },
+            "design": {
+                "exterior": "Bold and muscular design with a range of bed lengths and cab configurations.",
+                "interior": "Spacious and functional interior with quality materials and ample storage options."
+            },
+            "performance": {
+                "handling": "Smooth ride quality with responsive steering, suitable for both on and off-road driving.",
+                "offRoadCapability": "Available off-road packages enhance capability on rugged terrains."
+            },
+            "technology": {
+                "infotainment": "Comes with Ford's SYNC 3 infotainment system, featuring a touchscreen interface and voice recognition.",
+                "connectivity": "Includes Apple CarPlay and Android Auto compatibility, as well as multiple USB ports.",
+                "audio": "Optional premium audio system for an enhanced listening experience."
+            }
+        },
+        {
+            "id": 44,
+            "model": "2020 Volvo XC90",
+            "type": "Crossover",
+            "brand": "Volvo",
+            "price": 22000,
+            "image": "/img/Used Cars/20_2020 Volvo XC90/Home.png",
+            "description": "The 2020 Volvo XC90 is a versatile and spacious crossover SUV, known for its upscale interior, advanced safety features, and impressive cargo capacity. Ideal for families and adventure seekers alike, it combines practicality with luxury.",
+            "showcaseImages": [
+                "/img/Used Cars/20_2020 Volvo XC90/Showcase1.png",
+                "/img/Used Cars/20_2020 Volvo XC90/Showcase2.png",
+                "/img/Used Cars/20_2020 Volvo XC90/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/20_2020 Volvo XC90/Interior1.png",
+                "/img/Used Cars/20_2020 Volvo XC90/Interior2.png",
+                "/img/Used Cars/20_2020 Volvo XC90/Interior3.png"
+            ],
+            "features": {
+                "engine": "Equipped with a turbocharged 2.0L four-cylinder engine that provides a blend of power and efficiency.",
+                "drivetrain": "Available in all-wheel drive (AWD) for enhanced traction and stability.",
+                "seatingCapacity": "Seating for up to seven passengers with flexible seating arrangements.",
+                "cargoSpace": "Generous cargo space with options to expand further with rear seats folded down.",
+                "safety": "Comes with a suite of advanced safety features, including adaptive cruise control and lane-keeping assist."
+            },
+            "design": {
+                "exterior": "Elegant and modern design, showcasing Volvo's distinctive styling.",
+                "interior": "Luxurious interior featuring high-quality materials, comfortable seating, and a user-friendly layout."
+            },
+            "performance": {
+                "handling": "Smooth ride quality with confident handling on various road conditions.",
+                "offRoadCapability": "While primarily designed for on-road comfort, it handles light off-road conditions well."
+            },
+            "technology": {
+                "infotainment": "Features a large touchscreen interface with Volvo's Sensus infotainment system for easy access to navigation and media.",
+                "connectivity": "Includes Apple CarPlay and Android Auto compatibility, allowing for seamless smartphone integration.",
+                "audio": "Optional premium sound system for an exceptional listening experience."
+            }
+        },
+        {
+            "id": 45,
+            "model": "2019 Kia Soul",
+            "type": "Hatchback",
+            "brand": "Kia",
+            "price": 19000,
+            "image": "/img/Used Cars/21_2019 Kia Soul/Home.png",
+            "description": "The 2019 Kia Soul is a distinctive hatchback known for its spacious interior, quirky design, and user-friendly technology. Perfect for city driving and offers a comfortable ride for both passengers and cargo.",
+            "showcaseImages": [
+                "/img/Used Cars/21_2019 Kia Soul/Showcase1.png",
+                "/img/Used Cars/21_2019 Kia Soul/Showcase2.png",
+                "/img/Used Cars/21_2019 Kia Soul/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/21_2019 Kia Soul/Interior1.png",
+                "/img/Used Cars/21_2019 Kia Soul/Interior2.png",
+                "/img/Used Cars/21_2019 Kia Soul/Interior3.png"
+            ],
+            "features": {
+                "engine": "Powered by a 2.0L four-cylinder engine providing a balance of efficiency and performance.",
+                "drivetrain": "Front-wheel drive (FWD) for better fuel efficiency and urban maneuverability.",
+                "seatingCapacity": "Seating for up to five passengers with generous headroom and legroom.",
+                "cargoSpace": "Spacious cargo area with a versatile hatchback design for easy loading and unloading.",
+                "safety": "Includes standard safety features like a rearview camera and available advanced driver assistance systems."
+            },
+            "design": {
+                "exterior": "Eye-catching, boxy design that stands out on the road.",
+                "interior": "Fun and functional interior with a modern layout and quality materials."
+            },
+            "performance": {
+                "handling": "Light and responsive handling, making it easy to navigate city streets.",
+                "fuelEfficiency": "Offers competitive fuel economy, ideal for daily commuting."
+            },
+            "technology": {
+                "infotainment": "Comes with a touchscreen infotainment system featuring Bluetooth and smartphone integration.",
+                "connectivity": "Available Apple CarPlay and Android Auto for seamless smartphone connectivity.",
+                "audio": "Optional premium audio system for enhanced listening experiences."
+            }
+        },
+        {
+            "id": 46,
+            "model": "2020 Kia Sportage",
+            "type": "SUV",
+            "brand": "Kia",
+            "price": 24000,
+            "image": "/img/Used Cars/22_2020 Kia Sportage/Home.png",
+            "description": "The 2020 Kia Sportage is a capable SUV that balances style, comfort, and performance. With excellent off-road abilities, it's perfect for adventurous families and urban explorers alike.",
+            "showcaseImages": [
+                "/img/Used Cars/22_2020 Kia Sportage/Showcase1.png",
+                "/img/Used Cars/22_2020 Kia Sportage/Showcase2.png",
+                "/img/Used Cars/22_2020 Kia Sportage/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/22_2020 Kia Sportage/Interior1.png",
+                "/img/Used Cars/22_2020 Kia Sportage/Interior2.png",
+                "/img/Used Cars/22_2020 Kia Sportage/Interior3.png"
+            ],
+            "features": {
+                "engine": "Equipped with a 2.4L four-cylinder engine that delivers a balance of power and efficiency.",
+                "drivetrain": "Available all-wheel drive (AWD) for enhanced traction and stability on various terrains.",
+                "seatingCapacity": "Spacious interior seating up to five passengers with comfortable accommodations.",
+                "cargoSpace": "Versatile cargo area with split-folding rear seats for added flexibility.",
+                "safety": "Includes standard safety features like advanced airbag systems and stability control."
+            },
+            "design": {
+                "exterior": "Stylish and modern exterior design that turns heads.",
+                "interior": "Sophisticated interior layout with quality materials and user-friendly controls."
+            },
+            "performance": {
+                "handling": "Responsive handling that inspires confidence on and off the road.",
+                "fuelEfficiency": "Competitive fuel economy, making it a practical choice for everyday driving."
+            },
+            "technology": {
+                "infotainment": "Features a touchscreen infotainment system with Apple CarPlay and Android Auto.",
+                "connectivity": "Bluetooth connectivity for hands-free calling and audio streaming.",
+                "audio": "Optional premium sound system for an elevated audio experience."
+            }
+        },
+        {
+            "id": 47,
+            "model": "2022 Mercedes-Benz GLC-Class",
+            "type": "SUV",
+            "brand": "Mercedes",
+            "price": 22000,
+            "image": "/img/Used Cars/23_2022 Merces Benz GLC Class/Home.png",
+            "description": "The 2022 Mercedes-Benz GLC-Class combines luxury, versatility, and advanced technology. With a refined interior and a smooth ride, it's perfect for both urban and off-road adventures.",
+            "showcaseImages": [
+                "/img/Used Cars/23_2022 Merces Benz GLC Class/Showcase1.png",
+                "/img/Used Cars/23_2022 Merces Benz GLC Class/Showcase2.png",
+                "/img/Used Cars/23_2022 Merces Benz GLC Class/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/23_2022 Merces Benz GLC Class/Interior1.png",
+                "/img/Used Cars/23_2022 Merces Benz GLC Class/Interior2.png",
+                "/img/Used Cars/23_2022 Merces Benz GLC Class/Interior3.png"
+            ],
+            "features": {
+                "engine": "Powered by a turbocharged 2.0L four-cylinder engine that delivers impressive performance.",
+                "drivetrain": "Available with both rear-wheel and all-wheel drive options for enhanced handling.",
+                "seatingCapacity": "Luxurious seating for five passengers with premium materials and finishes.",
+                "cargoSpace": "Ample cargo space with a hands-free liftgate for convenience.",
+                "safety": "Equipped with advanced safety features including automatic emergency braking and lane-keeping assist."
+            },
+            "design": {
+                "exterior": "Sleek and modern exterior design that embodies the elegance of the Mercedes brand.",
+                "interior": "Upscale interior with a driver-focused layout and high-quality materials."
+            },
+            "performance": {
+                "handling": "Smooth and responsive handling with a focus on comfort.",
+                "fuelEfficiency": "Competitive fuel economy for a luxury SUV in its class."
+            },
+            "technology": {
+                "infotainment": "Features the latest MBUX infotainment system with a large touchscreen display.",
+                "connectivity": "Includes Bluetooth, Apple CarPlay, and Android Auto for seamless smartphone integration.",
+                "audio": "Available with a premium sound system for an enhanced listening experience."
+            }
+        },
+        {
+            "id": 48,
+            "model": "2023 Hyundai IONIQ 6",
+            "type": "SUV",
+            "brand": "Hyundai",
+            "price": 25000,
+            "image": "/img/Used Cars/24_2023 Hyundai IONIQ 6/Home.png",
+            "description": "The 2023 Hyundai IONIQ 6 is an all-electric SUV that combines stylish design, advanced technology, and eco-friendly performance. It offers a spacious interior with cutting-edge features for a modern driving experience.",
+            "showcaseImages": [
+                "/img/Used Cars/24_2023 Hyundai IONIQ 6/Showcase1.png",
+                "/img/Used Cars/24_2023 Hyundai IONIQ 6/Showcase2.png",
+                "/img/Used Cars/24_2023 Hyundai IONIQ 6/Showcase3.png"
+            ],
+            "interiorImage": [
+                "/img/Used Cars/24_2023 Hyundai IONIQ 6/Interior1.png",
+                "/img/Used Cars/24_2023 Hyundai IONIQ 6/Interior2.png",
+                "/img/Used Cars/24_2023 Hyundai IONIQ 6/Interior3.png"
+            ],
+            "features": {
+                "powertrain": "Equipped with an electric motor that delivers quick acceleration and a smooth driving experience.",
+                "range": "Offers an impressive electric range on a single charge, perfect for both city and highway driving.",
+                "charging": "Fast charging capability for added convenience.",
+                "safety": "Comes with advanced safety technologies, including adaptive cruise control and lane-keeping assist."
+            },
+            "design": {
+                "exterior": "Sleek and aerodynamic design that enhances efficiency and modern aesthetics.",
+                "interior": "Spacious and comfortable interior with high-quality materials and a user-friendly layout."
+            },
+            "performance": {
+                "handling": "Responsive handling with a focus on comfort and efficiency.",
+                "drivingModes": "Multiple driving modes to optimize performance and energy efficiency."
+            },
+            "technology": {
+                "infotainment": "Features an advanced infotainment system with a large touchscreen and smartphone integration.",
+                "connectivity": "Includes Bluetooth, Apple CarPlay, and Android Auto for seamless connectivity.",
+                "audio": "Available with a premium audio system for an enhanced listening experience."
+            }
+        }
+    ]
+}

@@ -151,7 +151,7 @@ function Homepage() {
           <div className="car-grid">
             {sortedNewCars.map(car => (
               <div className="car-item" key={car.id}>
-                <img src={car.image} alt={car.model} />
+                <img src={process.env.PUBLIC_URL + car.image} alt={car.model} />
                 <div className="car-details">
                   <h3>{car.model}</h3>
                   <p>{car.type}</p>
@@ -166,7 +166,7 @@ function Homepage() {
           <div className="car-grid">
             {sortedUsedCars.map(car => (
               <div className="car-item" key={car.id}>
-                <img src={car.image} alt={car.model} />
+                <img src={process.env.PUBLIC_URL + car.image} alt={car.model} />
                 <div className="car-details">
                   <h3>{car.model}</h3>
                   <p>{car.type}</p>

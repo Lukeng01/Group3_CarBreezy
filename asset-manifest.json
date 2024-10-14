@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Group3_CarBreezy/static/css/main.8c2b7836.css",
+    "main.js": "/Group3_CarBreezy/static/js/main.1409f0d9.js",
+    "static/media/Slide2.png": "/Group3_CarBreezy/static/media/Slide2.332ad0e5bd3b68cec217.png",
+    "static/media/Slide4.png": "/Group3_CarBreezy/static/media/Slide4.20ecd4da29a9f7a75af5.png",
+    "static/media/Slide3.png": "/Group3_CarBreezy/static/media/Slide3.2c84f0ff58bdc2bfa3bc.png",
+    "static/media/Slide1.png": "/Group3_CarBreezy/static/media/Slide1.5504337ece43d10fe608.png",
+    "static/media/Slide5.png": "/Group3_CarBreezy/static/media/Slide5.49241147d63ffb735fc4.png",
+    "static/media/Member3.png": "/Group3_CarBreezy/static/media/Member3.4e1ae65beaa0112cc2f1.png",
+    "static/media/Member2.png": "/Group3_CarBreezy/static/media/Member2.b9533bd90cc035f79764.png",
+    "static/media/Member1.png": "/Group3_CarBreezy/static/media/Member1.3b16d9183a776d764252.png",
+    "static/media/Sitemap.png": "/Group3_CarBreezy/static/media/Sitemap.cbf89b65d2f1630cbe21.png",
+    "static/media/logo.png": "/Group3_CarBreezy/static/media/logo.1cb148e4b51627614321.png",
+    "index.html": "/Group3_CarBreezy/index.html",
+    "static/media/person-svgrepo-com.svg": "/Group3_CarBreezy/static/media/person-svgrepo-com.431b0119278a762b7985d2549fbe862e.svg",
+    "main.8c2b7836.css.map": "/Group3_CarBreezy/static/css/main.8c2b7836.css.map",
+    "main.1409f0d9.js.map": "/Group3_CarBreezy/static/js/main.1409f0d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c2b7836.css",
+    "static/js/main.1409f0d9.js"
+  ]
+}

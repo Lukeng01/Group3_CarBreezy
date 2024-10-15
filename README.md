@@ -1,4 +1,4 @@
-Hello! This is eProject group 3.
+Hi^^ This is eProject group 3-Car Breezy.
 
 ## Problem Definition & Introduction: 
 

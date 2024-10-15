@@ -14,9 +14,9 @@ CarBreezy simplifies the often overwhelming car-buying process by providing a us
 
 ## Design specifications:
 
-- Diagrams is shown in document/eProject Report-Car Breezy-Group 3-Class T1.2406.M1.pdf
-- Source Code in src/components
-- Data Used in the Project src/data.json
+- Diagrams is shown in: document/eProject Report-Car Breezy-Group 3-Class T1.2406.M1.pdf
+- Source Code in: src/components
+- Data Used in the Project: src/data.json
 - Report and status report are located in document folder
 
 ## Run & Installation:

@@ -5,18 +5,21 @@ Hello! This is eProject group 3.
 CarBreezy simplifies the often overwhelming car-buying process by providing a user-friendly platform for comparing models, filtering based on preferences, and accessing key insights. The website enhances the buying experience with intuitive features for searching and viewing car details, empowering users to make informed decisions efficiently.
 
 ## Our Group Members:
+
 - **Leader**: Nguyễn Trần Đức Lộc - Student1572002
 - Lê Tuấn Anh - Student1574956
 - Vũ Thị Hoài Thu - Student1571993
 
 ## Our project demonstration video: https://shorturl.at/lF3FC
 
-## Design specifications
-• Diagrams is shown in document/eProject Report-Car Breezy-Group 3-Class T1.2406.M1.pdf
-• Source Code in src/components
-• Test Data Used in the Project src/data.json
+## Design specifications:
 
-## Run & Installation
+- Diagrams is shown in document/eProject Report-Car Breezy-Group 3-Class T1.2406.M1.pdf
+- Source Code in src/components
+- Data Used in the Project src/data.json
+- Report and status report are located in document folder
+
+## Run & Installation:
 To view this website, simply click on the following link: https://lukeng01.github.io/Group3_CarBreezy/ 
 
 To run this project locally, follow these steps:

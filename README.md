@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
 3. Install dependencies:
    ```bash
-   npm install
+   npm install --save-dev
    ```
 
 4. Start the development server:

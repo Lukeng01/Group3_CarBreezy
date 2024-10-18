@@ -1,4 +1,9 @@
-Hi^^ This is eProject group 3-Car Breezy.
+EProject group 3
+Class: T1.2406.M1
+
+CENTER NAME: ACE-HCMC-2-FPT
+
+Project title: CarBreezy
 
 ## Problem Definition & Introduction: 
 
@@ -6,18 +11,21 @@ CarBreezy simplifies the often overwhelming car-buying process by providing a us
 
 ## Our Group Members:
 
-- **Leader**: Nguyễn Trần Đức Lộc - Student1572002
-- Lê Tuấn Anh - Student1574956
-- Vũ Thị Hoài Thu - Student1571993
+- Nguyễn Trần Đức Lộc - Student1572002
+- Lê Tuấn Anh         - Student1574956
+- Vũ Thị Hoài Thu     - Student1571993
 
 ## Our project demonstration video: https://shorturl.at/lF3FC
 
-## Design specifications:
-
-- Diagrams is shown in: document/eProject Report-Car Breezy-Group 3-Class T1.2406.M1.pdf
+## Specifications:
 - Source Code in: src/components
 - Data Used in the Project: src/data.json
-- Report and status report are located in document folder
+
+## Report + Status report +Github guide:
+3 file located in https://github.com/Lukeng01/Group3_CarBreezy/tree/master/Document
+- Status report file name: eProject_Status_Report_CarBreezy.xlsx
+- Report file name: eProject Report-Car Breezy-Group 3-Class T1.2406.M1.pdf
+- Github guide file name: eProject Git Hub Guide-Group 3-Car Breezy 
 
 ## Run & Installation:
 To view this website, simply click on the following link: https://lukeng01.github.io/Group3_CarBreezy/ 
